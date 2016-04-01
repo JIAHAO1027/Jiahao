@@ -1,0 +1,51 @@
+---
+title: "get_regression"
+author: "Jiahao Huang"
+date: ""
+output: 
+  html_document:
+    fig_height: 3
+    fig_width: 5
+---
+<!-- Don't edit in between this line and the one below -->
+```{r include=FALSE}
+# Don't delete this chunk if you are using the DataComputing package
+library(DataComputing)
+```
+*Source file* 
+```{r, results='asis', echo=FALSE}
+includeSourceDocuments()
+```
+<!-- Don't edit the material above this line -->
+
+
+```{r}
+setwd("/Users/Jiahao/Dropbox/urap_programming/Jiahao/gen_diff_acc_hist_0229")
+#setwd("C:/Users/xin_chen/Dropbox/urap_programming/Jiahao/gen_diff_acc_hist_0229")
+dic <- read.csv("output/dictIdx_table.csv", stringsAsFactors = FALSE)
+dic$v = 1
+dic$p = c(1:nrow(dic))
+dic <- dic %>% filter(dic_index != "")
+dic <- group_by(dic, ItemID, index, dic_index)
+dic2 <- dic %>%  summarise(count = sum(v))
+dic3 <- dic2 %>% spread(key = dic_index, value = count)
+dic3[is.na(dic3)] <- 0
+write.csv(dic3, file = "output/regresstion_data.csv")
+```
+
+```{r}
+#setwd("/Users/Jiahao/Dropbox/urap_programming/Jiahao/gen_diff_acc_hist_0229")
+setwd("C:/Users/xin_chen/Dropbox/urap_programming/Jiahao/gen_diff_acc_hist_0229")
+dic2 <- read.csv("output/dictIdx_table.csv", stringsAsFactors = FALSE)
+dic2$v = 1
+dic2$p = c(1:nrow(dic2))
+dic2 <- dic2 %>% filter(dic_index != "")
+dic2 <- group_by(dic2, ItemID, index, dic_index)
+dic22 <- dic2 %>%  summarise(count = sum(v))
+dic32 <- dic22 %>% spread(key = dic_index, value = count)
+
+dic32[is.na(dic32) == FALSE] <- 1
+dic32[is.na(dic32)] <- 0
+write.csv(dic32, file = "output/regresstion_data_0and1.csv")
+```
+

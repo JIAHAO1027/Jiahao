@@ -1,0 +1,27 @@
+---
+title: "iPad Air 2 histogram of number of accessories by bundle"
+author: "Jiahao Huang"
+date: "2016-2-10"
+output:
+  html_document:
+    fig_height: 3
+    fig_width: 5
+  pdf_document: default
+---
+<!-- Don't edit in between this line and the one below -->
+```{r include=FALSE}
+# Don't delete this chunk if you are using the DataComputing package
+library(DataComputing)
+```
+```{r, results='asis', echo=FALSE}
+includeSourceDocuments()
+```
+<!-- Don't edit the material above this line -->
+
+
+```{r}
+setwd("/Users/Jiahao/Dropbox/urap_programming/iPad Air 2 data")
+df_premium_join_share=read.csv("Output/share_and_premium.csv")
+df_premium_join_share1 <- filter(df_premium_join_share, bundle_index != 0)
+ggplot(data = df_premium_join_share1, aes(x = df_premium_join_share1$num_of_access)) + geom_histogram(binwidth = 1) + ggtitle("Histogram of number of accessories by bundle") +facet_wrap(~bundle_index, nrow = 2, labeller = "label_value") + ylab("Frequency") + xlab("Number of access")
+```

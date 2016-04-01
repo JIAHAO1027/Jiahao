@@ -1,0 +1,70 @@
+Author,ItemID(LIsting_id),two_bundle_index,diff,only_in_one,only_in_other,bundle_price,bundle_price_diff
+Jiahao,44021641588,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,18999829018,"[1, 8]",7,"['CC38', 'XB21']","['CC40', 'XB05', 'DC20', 'SJ33', 'XN19']","['3180', '3610']",430.0
+Jiahao,24596036343,"[1, 8]",11,"['CC21', 'MO03']","['CC15', 'FH02', 'DC09', 'JB01', 'ZG09', 'YK05', 'PZ07', 'XN06', 'SJ17']","['3259', '4149']",890.0
+Jiahao,45219159638,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,40565901878,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,36613205733,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,41599133465,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,43859660891,"[1, 8]",3,['CC24'],"['DC01', 'CC23']","['3000', '3440']",440.0
+Jiahao,38708270318,"[1, 8]",6,['CC05'],"['CC40', 'PZ08', 'XN01', 'SJ01', 'DC01']","['3200', '4560']",1360.0
+Jiahao,35540978058,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,26519380192,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,5.22E+11,"[1, 8]",23,"['SJ23', 'CC05', 'XB35', 'CC01', 'SJ02', 'SJ28', 'CC06', 'FW07', 'QT04']","['SJ07', 'CC07', 'XB05', 'DC02', 'RG03', 'BD03', 'PZ01', 'CC04', 'DC01', 'BJ01', 'SJ03', 'CC08', 'DC21', 'MO09']","['3150', '3430', '3350', '3720', '3100', '3394.8', '3662.33', '3300', '3640', '3400']",0
+Jiahao,18053093587,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,42468840454,"[1, 8]",9,['CC38'],"['CC08', 'MO09', 'YK02', 'SJ02', 'DC01', 'XN01', 'GJ04', 'PZ08']","['3100', '3440']",340.0
+Jiahao,5.24E+11,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,16831203027,"[1, 8]",11,['CC05'],"['CC08', 'GJ02', 'DC02', 'ND01', 'PZ06', 'QT04', 'SJ02', 'WD01', 'XN01', 'YK01']","['2960', '3310']",350.0
+Jiahao,19999809846,"[1, 8]",12,"['CC06', 'XB35']","['BJ02', 'CC08', 'DC01', 'GJ01', 'JQ02', 'QT01', 'SJ02', 'XB60', 'XN01', 'XN06']","['3080', '3470']",390.0
+Jiahao,20167630571,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,27462844289,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,36910165248,"[1, 8]",11,['CC02'],"['CC04', 'FW01', 'GJ01', 'HJ01', 'ND01', 'WJ01', 'XB68', 'XN01', 'XN07', 'YK01']","['3078', '3588']",510.0
+Jiahao,37994506504,"[1, 8]",6,['CC05'],"['CC46', 'DC01', 'PZ08', 'SJ01', 'XN01']","['3190', '3560']",370.0
+Jiahao,38663832002,"[1, 8]",6,['CC05'],"['CC08', 'DC01', 'PZ08', 'SJ07', 'XN01']","['3150', '3520']",370.0
+Jiahao,39237426326,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,41802068265,"[1, 8]",9,"['CC02', 'XB35']","['DC01', 'GJ04', 'JQ02', 'QT04', 'SJ28', 'WD01', 'XN01']","['3200', '3700']",500.0
+Jiahao,43168072227,"[1, 8]",13,"['CC38', 'UV01', 'XB65']","['CC08', 'DC07', 'ND01', 'PZ01', 'QT04', 'SJ01', 'UV03', 'WD01', 'XB06', 'XN01']","['4385.71', '5000']",614.29
+Jiahao,43736454825,"[1, 8]",13,"['CC06', 'SJ01', 'XB65']","['CC08', 'DC13', 'GJ04', 'JQ02', 'PZ08', 'QT04', 'SJ02', 'WD05', 'XB05', 'XN01']","['3180', '3670']",490.0
+Jiahao,44231886556,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,44799642380,"[1, 8]",7,"['CC01', 'SJ28']","['BJ01', 'CC04', 'DC01', 'PZ01', 'SJ03']","['3397.68', '3837.68']",440.0
+Jiahao,45293052304,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,45410114111,"[1, 8]",11,"['CC06', 'SJ07', 'UV20', 'XB07']","['CC08,CC40,CC46,CC47', 'DC01', 'GJ04', 'PZ08', 'SJ03', 'UV03', 'XB06']","['3260', '3720']",460.0
+Jiahao,5.23E+11,"[1, 8]",11,"['CC07', 'CC01', 'BU01', 'GJ01', 'JZ03', 'MO08', 'XB07']","['CC08,CC40,CC46,CC47', 'PZ02', 'SJ03', 'CC04']","['3250', '4100', '3570', '3980', '3150']",0
+Jiahao,18820622609,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,20186366493,"[1, 8]",4,['CC01'],"['CC33', 'DC01', 'SJ01']","['5080', '5380']",300.0
+Jiahao,20373091017,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,20728727154,"[1, 8]",15,"['CC17', 'DK13', 'UV53', 'XB52', 'YK05']","['CC43', 'DC01', 'DK16', 'PZ01', 'RG01', 'SJ15', 'UV52', 'XB58', 'XN07', 'YK01']","['3538', '4500']",962.0
+Jiahao,23896264169,"[1, 8]",10,"['CC19', 'UV34', 'XB05']","['CC47', 'DC02', 'SJ08', 'UV43', 'WD05', 'XB62', 'YK02']","['3350', '4050']",700.0
+Jiahao,24319152517,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,35674260254,"[1, 8]",6,['CC05'],"['CC08', 'DC01', 'MO09', 'ND01', 'RG02']","['2900', '3250']",350.0
+Jiahao,36982442137,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,37745552927,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,37870465778,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,40112687054,"[1, 8]",bundle_index = 1 does not exist,[],[],0,0
+Jiahao,40148868087,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,40175359932,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,42981617542,"[1, 8]",11,"['CC21', 'MO03']","['CC18', 'DC09', 'FH02', 'JB01', 'PZ07', 'SJ17', 'XN06', 'YK05', 'ZG09']","['3209', '4099']",890.0
+Jiahao,43265715666,"[1, 8]",bundle_index = 1 does not exist,[],[],0,0
+Jiahao,44069100271,"[1, 8]",3,['CC06'],"['CC08', 'DC02']","['3450', '3850']",400.0
+Jiahao,5.21E+11,"[1, 8]",bundle_index = 1 does not exist,[],[],0,0
+Jiahao,42681494957,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,37443266749,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,43452978184,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,25673844634,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,23924620234,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,40452911197,"[1, 8]",7,['CC24'],"['QT02', 'CC23', 'DC21', 'JB01', 'QC02', 'QT19']","['3050', '3280']",230.0
+Jiahao,43853759026,"[1, 8]",4,['CC06'],"['CC08', 'DC02', 'SJ01']","['3450', '3850']",400.0
+Jiahao,44881048637,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,36513357018,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,18352298789,"[1, 8]",8,['CC16'],"['CC15', 'DC13', 'QT15', 'SJ16', 'PZ06', 'YK05', 'ZG18']","['3620', '4300']",680.0
+Jiahao,37241107923,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,23969324559,"[1, 8]",13,"['CC24', 'UV36', 'XB35']","['CC18', 'DC02', 'GJ03', 'JB01', 'ND03', 'RG03', 'UV54', 'WD04', 'XB06', 'XN01']","['3100', '3480']",380.0
+Jiahao,24291960195,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,43426870825,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,38631814095,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,36574928690,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,44331296085,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0
+Jiahao,37908516066,"[1, 8]",bundle_index = 1 does not exist,[],[],0,0
+Jiahao,41583985792,"[1, 8]",bundle_index = 1 does not exist,[],[],0,0
+Jiahao,35557065616,"[1, 8]",bundle_index = 1 does not exist,[],[],0,0
+Jiahao,43473279886,"[1, 8]",bundle_index = 8 does not exist,[],[],0,0

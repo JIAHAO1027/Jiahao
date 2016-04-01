@@ -1,0 +1,519 @@
+Author,ItemID(LIsting_id),another_bundle_index,diff,only_in_one,only_in_other,in_both
+Jiahao,5.23084E+11,2,4,['UV48'],"['UV30', 'DC13', 'YK05']","['UV48', 'UV30', 'DC13', 'YK05']"
+Jiahao,5.21514E+11,2,9,['CC05'],"['BU01', 'CC06', 'CC38', 'DK01', 'JD03', 'UV02', 'XB05', 'YK01']","['CC05', 'BU01', 'CC06', 'CC38', 'DK01', 'JD03', 'UV02', 'XB05', 'YK01']"
+Jiahao,5.23777E+11,2,bundle_index = 1 does not exist,[],[],[]
+Jiahao,5.22864E+11,2,3,['CC07'],"['CC08', 'DC20']","['CC07', 'CC08', 'DC20']"
+Jiahao,5.22744E+11,2,4,"['CC38', 'CC06']","['CC39', 'CC07']","['CC38', 'CC06', 'CC39', 'CC07']"
+Jiahao,5.22145E+11,2,bundle_index = 1 does not exist,[],[],[]
+Jiahao,5.22098E+11,2,6,"['XB35', 'CC01']","['DC07', 'SP02', 'CC02', 'SJ01']","['XB35', 'CC01', 'DC07', 'SP02', 'CC02', 'SJ01']"
+Jiahao,5.22086E+11,2,bundle_index = 1 does not exist,[],[],[]
+Jiahao,5.22034E+11,2,8,"['CC25', 'CC17', 'YK05']","['CC26', 'CC16', 'DC22', 'RG01', 'YK01']","['CC25', 'CC17', 'YK05', 'CC26', 'CC16', 'DC22', 'RG01', 'YK01']"
+Jiahao,5.2187E+11,2,4,['UV34'],"['DC06', 'UV41', 'YK02']","['UV34', 'DC06', 'UV41', 'YK02']"
+Jiahao,45410114111,2,7,"['CC24', 'XB35']","['CC20', 'DC14', 'JB01', 'XB05', 'XN01']","['CC24', 'XB35', 'CC20', 'DC14', 'JB01', 'XB05', 'XN01']"
+Jiahao,45293052304,2,3,['CC05'],"['CC29', 'UV36']","['CC05', 'CC29', 'UV36']"
+Jiahao,45219159638,2,5,['CC06'],"['CC16', 'QT05', 'DC08', 'JB01']","['CC06', 'CC16', 'QT05', 'DC08', 'JB01']"
+Jiahao,44881048637,2,bundle_index = 1 does not exist,[],[],[]
+Jiahao,44799642380,2,10,"['CC06', 'UV25']","['FW01', 'SP02', 'UV01', 'XN01', 'XN07', 'ZG01', 'PZ10', 'DC19']","['CC06', 'UV25', 'FW01', 'SP02', 'UV01', 'XN01', 'XN07', 'ZG01', 'PZ10', 'DC19']"
+Jiahao,44331296085,2,bundle_index = 1 does not exist,[],[],[]
+Jiahao,44231886556,2,4,"['CC06', 'UV04']","['CC07', 'UV46']","['CC06', 'UV04', 'CC07', 'UV46']"
+Jiahao,44069100271,2,4,['CC05'],"['CC45', 'UV21', 'DC15']","['CC05', 'CC45', 'UV21', 'DC15']"
+Jiahao,44021641588,2,11,[],"['BU01', 'CC05', 'DK01', 'FD01', 'QT01', 'SP01', 'JD03', 'UV29', 'WD01', 'YK01', 'ZG01']","['BU01', 'CC05', 'DK01', 'FD01', 'QT01', 'SP01', 'JD03', 'UV29', 'WD01', 'YK01', 'ZG01']"
+Jiahao,43859660891,2,7,"['CC24', 'XB35']","['UV34', 'ZG01', 'XB36', 'EJ01', 'YD01']","['CC24', 'XB35', 'UV34', 'ZG01', 'XB36', 'EJ01', 'YD01']"
+Jiahao,43853759026,2,2,['CC02'],['CC33'],"['CC02', 'CC33']"
+Jiahao,43736454825,2,11,"['CC06', 'UV34', 'UV61', 'MO01', 'XB07']","['CC07', 'CC16', 'UV03', 'UV62', 'DC15', 'MO04']","['CC06', 'UV34', 'UV61', 'MO01', 'XB07', 'CC07', 'CC16', 'UV03', 'UV62', 'DC15', 'MO04']"
+Jiahao,43473279886,2,7,"['BU01', 'CC06', 'DK01', 'FD01', 'FW08']","['XB07', 'YK01']","['BU01', 'CC06', 'DK01', 'FD01', 'FW08', 'XB07', 'YK01']"
+Jiahao,43452978184,2,5,[],"['BU01', 'CC07', 'DK01', 'FD01', 'FW08']","['BU01', 'CC07', 'DK01', 'FD01', 'FW08']"
+Jiahao,43426870825,2,bundle_index = 1 does not exist,[],[],[]
+Jiahao,43168072227,2,13,"['CC02', 'CC19', 'CC05', 'CC07', 'XB04', 'YK05']","['CC33', 'DC12', 'UV01', 'CC38', 'CC08', 'FD05', 'XB06']","['CC02', 'CC19', 'CC05', 'CC07', 'XB04', 'YK05', 'CC33', 'DC12', 'UV01', 'CC38', 'CC08', 'FD05', 'XB06']"
+Jiahao,42981617542,2,4,['CC05'],"['XN07', 'ZG01', 'CC06']","['CC05', 'XN07', 'ZG01', 'CC06']"
+Jiahao,42681494957,2,2,['CC05'],['CC38'],"['CC05', 'CC38']"
+Jiahao,42468840454,2,2,['CC01'],['DC10'],"['CC01', 'DC10']"
+Jiahao,41802068265,2,2,['CC24'],['CC06'],"['CC24', 'CC06']"
+Jiahao,41599133465,2,bundle_index = 1 does not exist,[],[],[]
+Jiahao,41583985792,2,bundle_index = 1 does not exist,[],[],[]
+Jiahao,40565901878,2,bundle_index = 1 does not exist,[],[],[]
+Jiahao,40452911197,2,2,['CC24'],['CC21'],"['CC24', 'CC21']"
+Jiahao,40175359932,2,14,"['UV01', 'MO04', 'XB07', 'SP02', 'QT04', 'YK01', 'FW07', 'JC04', 'CC02', 'YK13']","['DK15', 'QC02', 'CC33', 'CC04']","['UV01', 'MO04', 'XB07', 'SP02', 'QT04', 'YK01', 'FW07', 'JC04', 'CC02', 'YK13', 'DK15', 'QC02', 'CC33', 'CC04']"
+Jiahao,40148868087,2,2,[],"['MO09', 'YK02']","['MO09', 'YK02']"
+Jiahao,40112687054,2,bundle_index = 1 does not exist,[],[],[]
+Jiahao,39237426326,2,bundle_index = 1 does not exist,[],[],[]
+Jiahao,38708270318,2,7,"['CC24', 'XB35']","['CC20', 'DC05', 'JB01', 'XB05', 'XN01']","['CC24', 'XB35', 'CC20', 'DC05', 'JB01', 'XB05', 'XN01']"
+Jiahao,38663832002,2,2,[],"['DC08', 'JB01']","['DC08', 'JB01']"
+Jiahao,38631814095,2,17,"['DK01', 'FD01', 'MO09', 'FW07', 'FW15', 'GJ04', 'JC02', 'JC04', 'JZ01', 'QT17', 'RG01', 'SP01', 'UV01', 'WJ01', 'XB65', 'YK01', 'ZG01']",[],"['DK01', 'FD01', 'MO09', 'FW07', 'FW15', 'GJ04', 'JC02', 'JC04', 'JZ01', 'QT17', 'RG01', 'SP01', 'UV01', 'WJ01', 'XB65', 'YK01', 'ZG01']"
+Jiahao,37994506504,2,bundle_index = 1 does not exist,[],[],[]
+Jiahao,37908516066,2,bundle_index = 1 does not exist,[],[],[]
+Jiahao,37870465778,2,bundle_index = 1 does not exist,[],[],[]
+Jiahao,37745552927,2,bundle_index = 1 does not exist,[],[],[]
+Jiahao,37443266749,2,10,"['CC20', 'CC38', 'UV01', 'DC07']","['CC21', 'WD01', 'CC39', 'UV10', 'YK01', 'CC02']","['CC20', 'CC38', 'UV01', 'DC07', 'CC21', 'WD01', 'CC39', 'UV10', 'YK01', 'CC02']"
+Jiahao,37241107923,2,bundle_index = 2 does not exist,[],[],[]
+Jiahao,36982442137,2,9,[],"['CC07', 'DK05', 'FD01', 'FD05', 'FH01', 'JC08', 'MO02', 'ND01', 'RG01']","['CC07', 'DK05', 'FD01', 'FD05', 'FH01', 'JC08', 'MO02', 'ND01', 'RG01']"
+Jiahao,36910165248,2,2,['CC06'],['CC07'],"['CC06', 'CC07']"
+Jiahao,36613205733,2,2,['CC24'],['CC21'],"['CC24', 'CC21']"
+Jiahao,36574928690,2,bundle_index = 1 does not exist,[],[],[]
+Jiahao,36513357018,2,7,"['FD01', 'SP01', 'YK01', 'UV01', 'ZG01', 'GJ01']",['CC06'],"['FD01', 'SP01', 'YK01', 'UV01', 'ZG01', 'GJ01', 'CC06']"
+Jiahao,35674260254,2,6,['CC06'],"['SP01', 'UV01', 'ZG01', 'GJ01', 'CC07']","['CC06', 'SP01', 'UV01', 'ZG01', 'GJ01', 'CC07']"
+Jiahao,35557065616,2,bundle_index = 1 does not exist,[],[],[]
+Jiahao,35540978058,2,bundle_index = 1 does not exist,[],[],[]
+Jiahao,27462844289,2,9,"['CC02', 'FW20']","['CC33', 'DC21', 'FD01', 'FW02', 'JB01', 'JD03', 'UV01']","['CC02', 'FW20', 'CC33', 'DC21', 'FD01', 'FW02', 'JB01', 'JD03', 'UV01']"
+Jiahao,26519380192,2,3,['CC01'],"['CC33', 'SJ01']","['CC01', 'CC33', 'SJ01']"
+Jiahao,25673844634,2,bundle_index = 1 does not exist,[],[],[]
+Jiahao,24596036343,2,6,"['CC21', 'DC07']","['CC22', 'MO04', 'YK13', 'CC02']","['CC21', 'DC07', 'CC22', 'MO04', 'YK13', 'CC02']"
+Jiahao,24319152517,2,2,['DC07'],['CC02'],"['DC07', 'CC02']"
+Jiahao,24291960195,2,8,"['CC38', 'SP02', 'UV60', 'WD01', 'XB07', 'YK01', 'ZG01']",['CC39'],"['CC38', 'SP02', 'UV60', 'WD01', 'XB07', 'YK01', 'ZG01', 'CC39']"
+Jiahao,23969324559,2,5,['CC06'],"['SP02', 'UV60', 'YK01', 'CC07']","['CC06', 'SP02', 'UV60', 'YK01', 'CC07']"
+Jiahao,23924620234,2,bundle_index = 1 does not exist,[],[],[]
+Jiahao,23896264169,2,2,['CC01'],['CC02'],"['CC01', 'CC02']"
+Jiahao,20728727154,2,2,['CC01'],['CC02'],"['CC01', 'CC02']"
+Jiahao,20373091017,2,bundle_index = 1 does not exist,[],[],[]
+Jiahao,20186366493,2,2,['CC05'],['CC07'],"['CC05', 'CC07']"
+Jiahao,20167630571,2,bundle_index = 1 does not exist,[],[],[]
+Jiahao,19999809846,2,4,['CC01'],"['CC06', 'SJ01', 'CC02']","['CC01', 'CC06', 'SJ01', 'CC02']"
+Jiahao,18999829018,2,bundle_index = 1 does not exist,[],[],[]
+Jiahao,18820622609,2,15,"['DC01', 'DK01', 'FD01', 'GJ01', 'JB01', 'JZ03', 'QC02', 'SJ28', 'SP01', 'MO08', 'UV01', 'XB07', 'YK01', 'ZG01']",['CC06'],"['DC01', 'DK01', 'FD01', 'GJ01', 'JB01', 'JZ03', 'QC02', 'SJ28', 'SP01', 'MO08', 'UV01', 'XB07', 'YK01', 'ZG01', 'CC06']"
+Jiahao,18352298789,2,23,"['BU04', 'CC07', 'FP01', 'FW06', 'FW07', 'JZ01', 'MO09', 'ND01', 'QT01', 'UV02', 'WD01']","['DC01', 'GJ01', 'JB01', 'JZ03', 'QC02', 'SJ28', 'SP01', 'MO08', 'UV01', 'XB07', 'YK01', 'ZG01']","['BU04', 'CC07', 'FP01', 'FW06', 'FW07', 'JZ01', 'MO09', 'ND01', 'QT01', 'UV02', 'WD01', 'DC01', 'GJ01', 'JB01', 'JZ03', 'QC02', 'SJ28', 'SP01', 'MO08', 'UV01', 'XB07', 'YK01', 'ZG01']"
+Jiahao,18053093587,2,13,[],"['BU04', 'CC08,CC40,CC46,CC47', 'DK01', 'FD01', 'FP01', 'FW06', 'FW07', 'JZ01', 'MO09', 'ND01', 'QT01', 'UV02', 'WD01']","['BU04', 'CC08,CC40,CC46,CC47', 'DK01', 'FD01', 'FP01', 'FW06', 'FW07', 'JZ01', 'MO09', 'ND01', 'QT01', 'UV02', 'WD01']"
+Jiahao,16831203027,2,4,"['CC02', 'CC05']","['CC33', 'CC06']","['CC02', 'CC05', 'CC33', 'CC06']"
+Jiahao,5.23084E+11,3,12,"['CC06', 'UV48', 'XB35', 'DK01', 'MO01', 'UV12', 'XB07']","['CC07', 'UV30', 'XB08', 'ZG07', 'FW03']","['CC06', 'UV48', 'XB35', 'DK01', 'MO01', 'UV12', 'XB07', 'CC07', 'UV30', 'XB08', 'ZG07', 'FW03']"
+Jiahao,5.21514E+11,3,9,['CC05'],"['BU01', 'CC07', 'CC40', 'DK01', 'JD03', 'UV02', 'XB05', 'YK01']","['CC05', 'BU01', 'CC07', 'CC40', 'DK01', 'JD03', 'UV02', 'XB05', 'YK01']"
+Jiahao,5.23777E+11,3,bundle_index = 1 does not exist,[],[],[]
+Jiahao,5.22864E+11,3,15,"['CC07', 'JZ02', 'MO04', 'MO10', 'QC02', 'UV38', 'XB06']","['DC13', 'MO01', 'UV12', 'XB07', 'YK05', 'ZG18', 'CC43', 'DC20']","['CC07', 'JZ02', 'MO04', 'MO10', 'QC02', 'UV38', 'XB06', 'DC13', 'MO01', 'UV12', 'XB07', 'YK05', 'ZG18', 'CC43', 'DC20']"
+Jiahao,5.22744E+11,3,17,"['CC38', 'CC06', 'UV01', 'WD01', 'XB35', 'YK02', 'ZG01']","['JZ02', 'MO04', 'MO10', 'QC02', 'UV39', 'XB06', 'CC40', 'CC07', 'GJ01', 'QT01']","['CC38', 'CC06', 'UV01', 'WD01', 'XB35', 'YK02', 'ZG01', 'JZ02', 'MO04', 'MO10', 'QC02', 'UV39', 'XB06', 'CC40', 'CC07', 'GJ01', 'QT01']"
+Jiahao,5.22145E+11,3,bundle_index = 1 does not exist,[],[],[]
+Jiahao,5.22098E+11,3,8,"['CC06', 'XB35', 'CC01']","['CC07', 'DC07', 'SP02', 'CC33', 'SJ01']","['CC06', 'XB35', 'CC01', 'CC07', 'DC07', 'SP02', 'CC33', 'SJ01']"
+Jiahao,5.22086E+11,3,bundle_index = 1 does not exist,[],[],[]
+Jiahao,5.22034E+11,3,10,"['CC25', 'CC17', 'UV53', 'YK05']","['CC27', 'CC15', 'DC22', 'UV65', 'XN07', 'YK01']","['CC25', 'CC17', 'UV53', 'YK05', 'CC27', 'CC15', 'DC22', 'UV65', 'XN07', 'YK01']"
+Jiahao,5.2187E+11,3,5,"['CC19', 'UV34']","['CC07', 'UV03', 'YK02']","['CC19', 'UV34', 'CC07', 'UV03', 'YK02']"
+Jiahao,45410114111,3,9,"['CC24', 'XB35']","['CC19', 'DC14', 'JB01', 'ND03', 'RG03', 'XB05', 'XN01']","['CC24', 'XB35', 'CC19', 'DC14', 'JB01', 'ND03', 'RG03', 'XB05', 'XN01']"
+Jiahao,45293052304,3,7,"['CC05', 'XB35']","['CC29', 'DC15', 'UV36', 'XB63', 'ZG01']","['CC05', 'XB35', 'CC29', 'DC15', 'UV36', 'XB63', 'ZG01']"
+Jiahao,45219159638,3,16,"['CC06', 'UV16', 'XB05', 'CC21']","['CC16', 'DC20', 'JB03', 'QT05', 'UV47', 'WD01', 'XB13', 'YK05', 'CC22', 'DC08', 'JB01', 'ZG09']","['CC06', 'UV16', 'XB05', 'CC21', 'CC16', 'DC20', 'JB03', 'QT05', 'UV47', 'WD01', 'XB13', 'YK05', 'CC22', 'DC08', 'JB01', 'ZG09']"
+Jiahao,44881048637,3,bundle_index = 1 does not exist,[],[],[]
+Jiahao,44799642380,3,12,"['CC06', 'CC07', 'UV25']","['CC08', 'FW01', 'SP02', 'UV01', 'XN01', 'XN07', 'ZG01', 'UV26', 'DC20']","['CC06', 'CC07', 'UV25', 'CC08', 'FW01', 'SP02', 'UV01', 'XN01', 'XN07', 'ZG01', 'UV26', 'DC20']"
+Jiahao,44331296085,3,bundle_index = 1 does not exist,[],[],[]
+Jiahao,44231886556,3,3,['CC06'],"['CC07', 'DC02']","['CC06', 'CC07', 'DC02']"
+Jiahao,44069100271,3,7,"['CC06', 'CC05']","['CC45', 'UV21', 'DC15', 'PZ09', 'CC07']","['CC06', 'CC05', 'CC45', 'UV21', 'DC15', 'PZ09', 'CC07']"
+Jiahao,44021641588,3,11,[],"['BU01', 'CC06', 'DC13', 'DK01', 'FD01', 'QT01', 'SP01', 'JD03', 'UV29', 'WD01', 'YK01']","['BU01', 'CC06', 'DC13', 'DK01', 'FD01', 'QT01', 'SP01', 'JD03', 'UV29', 'WD01', 'YK01']"
+Jiahao,43859660891,3,13,"['CC17', 'ND01', 'CC24', 'XB35']","['ZG01', 'CC16', 'DC07', 'UV31', 'XB60', 'XB36', 'DC14', 'EJ01', 'YD01']","['CC17', 'ND01', 'CC24', 'XB35', 'ZG01', 'CC16', 'DC07', 'UV31', 'XB60', 'XB36', 'DC14', 'EJ01', 'YD01']"
+Jiahao,43853759026,3,5,[],"['FW01', 'ND01', 'XB60', 'XN01', 'YK01']","['FW01', 'ND01', 'XB60', 'XN01', 'YK01']"
+Jiahao,43736454825,3,18,"['CC06', 'CC19', 'DK05', 'UV34', 'UV61', 'XB06', 'XB35', 'QT01', 'MO01', 'XB07']","['CC39', 'CC07', 'DK01', 'UV57', 'UV62', 'XB08', 'XB69', 'ZG07']","['CC06', 'CC19', 'DK05', 'UV34', 'UV61', 'XB06', 'XB35', 'QT01', 'MO01', 'XB07', 'CC39', 'CC07', 'DK01', 'UV57', 'UV62', 'XB08', 'XB69', 'ZG07']"
+Jiahao,43473279886,3,bundle_index = 2 does not exist,[],[],[]
+Jiahao,43452978184,3,11,"['SJ04', 'SP02', 'UV01', 'XB06', 'YK01', 'ZG03']","['BU01', 'CC08', 'DK01', 'FD01', 'FW08']","['SJ04', 'SP02', 'UV01', 'XB06', 'YK01', 'ZG03', 'BU01', 'CC08', 'DK01', 'FD01', 'FW08']"
+Jiahao,43426870825,3,bundle_index = 1 does not exist,[],[],[]
+Jiahao,43168072227,3,18,"['CC02', 'CC19', 'MO01', 'CC05', 'CC07', 'DC15', 'QT14', 'SP03', 'UV45', 'XB04', 'XN01', 'YK05']","['CC04', 'DC12', 'RG02', 'SJ03', 'UV01', 'CC39']","['CC02', 'CC19', 'MO01', 'CC05', 'CC07', 'DC15', 'QT14', 'SP03', 'UV45', 'XB04', 'XN01', 'YK05', 'CC04', 'DC12', 'RG02', 'SJ03', 'UV01', 'CC39']"
+Jiahao,42981617542,3,14,['CC05'],"['CC08', 'DC15', 'FD05', 'PZ08', 'QT14', 'SP03', 'MO01', 'UV02', 'XB06', 'XN01', 'XN07', 'ZG01', 'CC07']","['CC05', 'CC08', 'DC15', 'FD05', 'PZ08', 'QT14', 'SP03', 'MO01', 'UV02', 'XB06', 'XN01', 'XN07', 'ZG01', 'CC07']"
+Jiahao,42681494957,3,2,['CC05'],['CC39'],"['CC05', 'CC39']"
+Jiahao,42468840454,3,14,"['CC02', 'CC01', 'JB01', 'JD01', 'MO02', 'PZ01', 'QC02', 'RG02', 'SJ28', 'SP02', 'UV01', 'XB07']","['CC33', 'DC10']","['CC02', 'CC01', 'JB01', 'JD01', 'MO02', 'PZ01', 'QC02', 'RG02', 'SJ28', 'SP02', 'UV01', 'XB07', 'CC33', 'DC10']"
+Jiahao,41802068265,3,10,['CC24'],"['JB01', 'JD01', 'MO02', 'PZ01', 'QC02', 'SJ28', 'UV01', 'XB07', 'CC07']","['CC24', 'JB01', 'JD01', 'MO02', 'PZ01', 'QC02', 'SJ28', 'UV01', 'XB07', 'CC07']"
+Jiahao,41599133465,3,bundle_index = 1 does not exist,[],[],[]
+Jiahao,41583985792,3,bundle_index = 1 does not exist,[],[],[]
+Jiahao,40565901878,3,bundle_index = 1 does not exist,[],[],[]
+Jiahao,40452911197,3,2,['CC24'],['CC22'],"['CC24', 'CC22']"
+Jiahao,40175359932,3,15,"['UV01', 'MO04', 'SP02', 'YK01', 'FW07', 'JC04', 'CC02', 'XB35']","['DK15', 'QC02', 'UV19', 'CC07', 'XB65', 'DC20', 'WD01']","['UV01', 'MO04', 'SP02', 'YK01', 'FW07', 'JC04', 'CC02', 'XB35', 'DK15', 'QC02', 'UV19', 'CC07', 'XB65', 'DC20', 'WD01']"
+Jiahao,40148868087,3,9,"['JZ02', 'DK12', 'RG02', 'FD01', 'FW15', 'CC38', 'XB06', 'UV20', 'ZG07']",[],"['JZ02', 'DK12', 'RG02', 'FD01', 'FW15', 'CC38', 'XB06', 'UV20', 'ZG07']"
+Jiahao,40112687054,3,bundle_index = 1 does not exist,[],[],[]
+Jiahao,39237426326,3,bundle_index = 1 does not exist,[],[],[]
+Jiahao,38708270318,3,9,"['CC24', 'XB35']","['CC19', 'DC05', 'JB01', 'ND03', 'RG03', 'XB05', 'XN01']","['CC24', 'XB35', 'CC19', 'DC05', 'JB01', 'ND03', 'RG03', 'XB05', 'XN01']"
+Jiahao,38663832002,3,5,['CC21'],"['CC22', 'DC08', 'JB01', 'ZG09']","['CC21', 'CC22', 'DC08', 'JB01', 'ZG09']"
+Jiahao,38631814095,3,bundle_index = 2 does not exist,[],[],[]
+Jiahao,37994506504,3,bundle_index = 1 does not exist,[],[],[]
+Jiahao,37908516066,3,bundle_index = 1 does not exist,[],[],[]
+Jiahao,37870465778,3,bundle_index = 1 does not exist,[],[],[]
+Jiahao,37745552927,3,bundle_index = 1 does not exist,[],[],[]
+Jiahao,37443266749,3,11,"['CC20', 'CC38', 'UV01', 'DC07']","['CC21', 'DC08', 'WD01', 'CC39', 'SJ09', 'UV10', 'CC33']","['CC20', 'CC38', 'UV01', 'DC07', 'CC21', 'DC08', 'WD01', 'CC39', 'SJ09', 'UV10', 'CC33']"
+Jiahao,37241107923,3,bundle_index = 2 does not exist,[],[],[]
+Jiahao,36982442137,3,13,['XB65'],"['CC07', 'DK05', 'FD01', 'FD05', 'FH01', 'JC08', 'MO02', 'ND01', 'QT04', 'RG01', 'WD05', 'XB05']","['XB65', 'CC07', 'DK05', 'FD01', 'FD05', 'FH01', 'JC08', 'MO02', 'ND01', 'QT04', 'RG01', 'WD05', 'XB05']"
+Jiahao,36910165248,3,2,['CC06'],['CC08'],"['CC06', 'CC08']"
+Jiahao,36613205733,3,2,['CC24'],['CC22'],"['CC24', 'CC22']"
+Jiahao,36574928690,3,bundle_index = 1 does not exist,[],[],[]
+Jiahao,36513357018,3,bundle_index = 2 does not exist,[],[],[]
+Jiahao,35674260254,3,14,['CC06'],"['CC07', 'DC01', 'MO08', 'BU01', 'SJ28', 'JB01', 'QC02', 'JZ03', 'SP01', 'UV01', 'ZG01', 'GJ01', 'CC08']","['CC06', 'CC07', 'DC01', 'MO08', 'BU01', 'SJ28', 'JB01', 'QC02', 'JZ03', 'SP01', 'UV01', 'ZG01', 'GJ01', 'CC08']"
+Jiahao,35557065616,3,bundle_index = 1 does not exist,[],[],[]
+Jiahao,35540978058,3,bundle_index = 1 does not exist,[],[],[]
+Jiahao,27462844289,3,14,"['BU01', 'CC02', 'FW20', 'QC02']","['CC04', 'DC21', 'FD01', 'FW02', 'JD03', 'PZ01', 'QT03', 'RG02', 'SJ01', 'UV01']","['BU01', 'CC02', 'FW20', 'QC02', 'CC04', 'DC21', 'FD01', 'FW02', 'JD03', 'PZ01', 'QT03', 'RG02', 'SJ01', 'UV01']"
+Jiahao,26519380192,3,9,"['CC02', 'DK06', 'XB07', 'CC01']","['CC33', 'DK15', 'QT01', 'SJ01', 'XB70']","['CC02', 'DK06', 'XB07', 'CC01', 'CC33', 'DK15', 'QT01', 'SJ01', 'XB70']"
+Jiahao,25673844634,3,bundle_index = 1 does not exist,[],[],[]
+Jiahao,24596036343,3,9,"['CC21', 'UV34', 'XB21']","['CC07', 'MO04', 'UV03', 'XB50', 'YK13', 'CC02']","['CC21', 'UV34', 'XB21', 'CC07', 'MO04', 'UV03', 'XB50', 'YK13', 'CC02']"
+Jiahao,24319152517,3,10,"['MS01', 'SJ18', 'SP01', 'MO12', 'UV01', 'XB07', 'XN09', 'YK01', 'ZG01']",['CC02'],"['MS01', 'SJ18', 'SP01', 'MO12', 'UV01', 'XB07', 'XN09', 'YK01', 'ZG01', 'CC02']"
+Jiahao,24291960195,3,16,"['CC38', 'DK01', 'FD01', 'FP01', 'MO01', 'QT14', 'RG01', 'SP02', 'UV60', 'WD01']","['MS01', 'SJ18', 'SP01', 'MO12', 'UV01', 'XN09']","['CC38', 'DK01', 'FD01', 'FP01', 'MO01', 'QT14', 'RG01', 'SP02', 'UV60', 'WD01', 'MS01', 'SJ18', 'SP01', 'MO12', 'UV01', 'XN09']"
+Jiahao,23969324559,3,8,['CC06'],"['CC40', 'FP01', 'QT14', 'SP02', 'UV60', 'YK01', 'CC08,CC40,CC46,CC47']","['CC06', 'CC40', 'FP01', 'QT14', 'SP02', 'UV60', 'YK01', 'CC08,CC40,CC46,CC47']"
+Jiahao,23924620234,3,bundle_index = 1 does not exist,[],[],[]
+Jiahao,23896264169,3,3,"['CC01', 'SJ01']",['CC33'],"['CC01', 'SJ01', 'CC33']"
+Jiahao,20728727154,3,2,['CC01'],['CC33'],"['CC01', 'CC33']"
+Jiahao,20373091017,3,bundle_index = 1 does not exist,[],[],[]
+Jiahao,20186366493,3,6,"['CC06', 'XB35']","['CC08', 'XB05', 'DC21', 'MO09']","['CC06', 'XB35', 'CC08', 'XB05', 'DC21', 'MO09']"
+Jiahao,20167630571,3,bundle_index = 1 does not exist,[],[],[]
+Jiahao,19999809846,3,4,['CC01'],"['CC07', 'SJ01', 'CC33']","['CC01', 'CC07', 'SJ01', 'CC33']"
+Jiahao,18999829018,3,bundle_index = 1 does not exist,[],[],[]
+Jiahao,18820622609,3,bundle_index = 2 does not exist,[],[],[]
+Jiahao,18352298789,3,23,"['BU04', 'FP01', 'FW06', 'FW07', 'JZ01', 'MO09', 'ND01', 'QT01', 'UV02', 'WD01']","['BU01', 'DC01', 'GJ01', 'JB01', 'JZ03', 'QC02', 'SJ28', 'SP01', 'MO08', 'UV01', 'XB07', 'YK01', 'ZG01']","['BU04', 'FP01', 'FW06', 'FW07', 'JZ01', 'MO09', 'ND01', 'QT01', 'UV02', 'WD01', 'BU01', 'DC01', 'GJ01', 'JB01', 'JZ03', 'QC02', 'SJ28', 'SP01', 'MO08', 'UV01', 'XB07', 'YK01', 'ZG01']"
+Jiahao,18053093587,3,14,[],"['BU04', 'CC07', 'DC21', 'DK01', 'FD01', 'FP01', 'FW06', 'FW07', 'JZ01', 'MO09', 'ND01', 'QT01', 'UV02', 'WD01']","['BU04', 'CC07', 'DC21', 'DK01', 'FD01', 'FP01', 'FW06', 'FW07', 'JZ01', 'MO09', 'ND01', 'QT01', 'UV02', 'WD01']"
+Jiahao,16831203027,3,20,"['FD05', 'MO16', 'FH03', 'SJ23', 'QC02', 'FW15', 'FW16', 'CC05', 'XB35', 'MO15', 'ZG18', 'UV12', 'SP02', 'FD01', 'JB01', 'DK09']","['XN01', 'YK01', 'XB60', 'ND01']","['FD05', 'MO16', 'FH03', 'SJ23', 'QC02', 'FW15', 'FW16', 'CC05', 'XB35', 'MO15', 'ZG18', 'UV12', 'SP02', 'FD01', 'JB01', 'DK09', 'XN01', 'YK01', 'XB60', 'ND01']"
+Jiahao,5.23084E+11,4,13,"['CC06', 'UV48', 'XB35', 'CC16', 'DK01', 'MO01', 'UV12', 'XB07']","['CC08', 'UV30', 'XB09', 'ZG07', 'FW03']","['CC06', 'UV48', 'XB35', 'CC16', 'DK01', 'MO01', 'UV12', 'XB07', 'CC08', 'UV30', 'XB09', 'ZG07', 'FW03']"
+Jiahao,5.21514E+11,4,20,"['CC05', 'JC04', 'JD02', 'MO05', 'UV01', 'WJ01', 'XB07', 'ZG01']","['CC06', 'GJ02', 'DC03', 'DC02', 'DK01', 'GJ04', 'PZ08', 'SJ29', 'JD03', 'UV02', 'XB05', 'YK01']","['CC05', 'JC04', 'JD02', 'MO05', 'UV01', 'WJ01', 'XB07', 'ZG01', 'CC06', 'GJ02', 'DC03', 'DC02', 'DK01', 'GJ04', 'PZ08', 'SJ29', 'JD03', 'UV02', 'XB05', 'YK01']"
+Jiahao,5.23777E+11,4,bundle_index = 1 does not exist,[],[],[]
+Jiahao,5.22864E+11,4,15,"['CC07', 'JZ02', 'MO04', 'MO10', 'QC02', 'UV38', 'XB06']","['CC16', 'DC02', 'MO01', 'QT15', 'UV12', 'XB07', 'YK05', 'ZG18']","['CC07', 'JZ02', 'MO04', 'MO10', 'QC02', 'UV38', 'XB06', 'CC16', 'DC02', 'MO01', 'QT15', 'UV12', 'XB07', 'YK05', 'ZG18']"
+Jiahao,5.22744E+11,4,22,"['CC06', 'DK09', 'FD01', 'FD05', 'MO09', 'FW15', 'FW07', 'JC06', 'JC08', 'JZ01', 'LP01', 'MO05', 'ND01', 'QT07', 'QT17', 'RG01', 'UV01', 'WD01', 'XB35', 'YK02', 'ZG01']",['DC20'],"['CC06', 'DK09', 'FD01', 'FD05', 'MO09', 'FW15', 'FW07', 'JC06', 'JC08', 'JZ01', 'LP01', 'MO05', 'ND01', 'QT07', 'QT17', 'RG01', 'UV01', 'WD01', 'XB35', 'YK02', 'ZG01', 'DC20']"
+Jiahao,5.22145E+11,4,bundle_index = 1 does not exist,[],[],[]
+Jiahao,5.22098E+11,4,13,"['CC06', 'WD01', 'XB35', 'JP04', 'MO06', 'QT04', 'SP01', 'UV01', 'XN07', 'ZG03']","['CC08', 'DC07', 'SP02']","['CC06', 'WD01', 'XB35', 'JP04', 'MO06', 'QT04', 'SP01', 'UV01', 'XN07', 'ZG03', 'CC08', 'DC07', 'SP02']"
+Jiahao,5.22086E+11,4,bundle_index = 1 does not exist,[],[],[]
+Jiahao,5.22034E+11,4,16,"['CC25', 'DC19', 'MO12', 'QT10', 'UV59', 'XB06', 'YK10', 'CC17', 'UV53', 'YK05']","['CC15', 'DC21', 'SJ15', 'UV03', 'XN07', 'YK01']","['CC25', 'DC19', 'MO12', 'QT10', 'UV59', 'XB06', 'YK10', 'CC17', 'UV53', 'YK05', 'CC15', 'DC21', 'SJ15', 'UV03', 'XN07', 'YK01']"
+Jiahao,5.2187E+11,4,7,"['CC19', 'UV34']","['CC07', 'DC02', 'UV03', 'WD05', 'YK02']","['CC19', 'UV34', 'CC07', 'DC02', 'UV03', 'WD05', 'YK02']"
+Jiahao,45410114111,4,13,"['CC24', 'UV36', 'XB35']","['CC19', 'DC02', 'GJ03', 'JB01', 'ND03', 'RG03', 'UV54', 'WD04', 'XB06', 'XN01']","['CC24', 'UV36', 'XB35', 'CC19', 'DC02', 'GJ03', 'JB01', 'ND03', 'RG03', 'UV54', 'WD04', 'XB06', 'XN01']"
+Jiahao,45293052304,4,4,"['CC05', 'XB35']","['CC29', 'DC02']","['CC05', 'XB35', 'CC29', 'DC02']"
+Jiahao,45219159638,4,20,"['CC06', 'UV16', 'XB05', 'CC21', 'MO03']","['XB63', 'ZG01', 'CC31', 'DC02', 'JB03', 'QT05', 'UV47', 'WD01', 'XB26', 'YK05', 'CC23', 'FH02', 'DC08', 'JB01', 'ZG09']","['CC06', 'UV16', 'XB05', 'CC21', 'MO03', 'XB63', 'ZG01', 'CC31', 'DC02', 'JB03', 'QT05', 'UV47', 'WD01', 'XB26', 'YK05', 'CC23', 'FH02', 'DC08', 'JB01', 'ZG09']"
+Jiahao,44881048637,4,bundle_index = 1 does not exist,[],[],[]
+Jiahao,44799642380,4,16,"['CC06', 'CC07', 'UV25', 'XB44', 'DK12']","['CC43', 'FW01', 'SP02', 'UV01', 'XN01', 'XN07', 'ZG01', 'CC08', 'UV27', 'XB39', 'DC02']","['CC06', 'CC07', 'UV25', 'XB44', 'DK12', 'CC43', 'FW01', 'SP02', 'UV01', 'XN01', 'XN07', 'ZG01', 'CC08', 'UV27', 'XB39', 'DC02']"
+Jiahao,44331296085,4,bundle_index = 1 does not exist,[],[],[]
+Jiahao,44231886556,4,3,['CC06'],"['CC08', 'DC02']","['CC06', 'CC08', 'DC02']"
+Jiahao,44069100271,4,7,"['CC06', 'CC05']","['CC46', 'UV22', 'DC15', 'PZ09', 'CC08']","['CC06', 'CC05', 'CC46', 'UV22', 'DC15', 'PZ09', 'CC08']"
+Jiahao,44021641588,4,bundle_index = 2 does not exist,[],[],[]
+Jiahao,43859660891,4,26,"['CC17', 'ND01', 'CC24', 'XB35', 'DK09', 'MO16', 'JB01', 'FC01', 'FP02', 'JC02']","['CC07', 'DC13', 'QT01', 'SP01', 'JD03', 'UV29', 'WD01', 'XB21', 'YK01', 'ZG01', 'CC15', 'DC07', 'UV31', 'XB60', 'CC16', 'XB36']","['CC17', 'ND01', 'CC24', 'XB35', 'DK09', 'MO16', 'JB01', 'FC01', 'FP02', 'JC02', 'CC07', 'DC13', 'QT01', 'SP01', 'JD03', 'UV29', 'WD01', 'XB21', 'YK01', 'ZG01', 'CC15', 'DC07', 'UV31', 'XB60', 'CC16', 'XB36']"
+Jiahao,43853759026,4,17,['CC02'],"['DK09', 'MO16', 'JB01', 'FC01', 'FP02', 'DC14', 'RG03', 'ND01', 'JC02', 'EJ01', 'YD01', 'CC33', 'FW01', 'XB60', 'XN01', 'YK01']","['CC02', 'DK09', 'MO16', 'JB01', 'FC01', 'FP02', 'DC14', 'RG03', 'ND01', 'JC02', 'EJ01', 'YD01', 'CC33', 'FW01', 'XB60', 'XN01', 'YK01']"
+Jiahao,43736454825,4,21,"['BU04', 'CC06', 'CC19', 'DK05', 'DK08', 'MO02', 'RG02', 'UV34', 'UV61', 'WD01', 'XB06', 'XB35', 'YK01', 'QT01', 'MO01', 'XB07']","['CC08', 'DK01', 'UV62', 'XB08', 'ZG07']","['BU04', 'CC06', 'CC19', 'DK05', 'DK08', 'MO02', 'RG02', 'UV34', 'UV61', 'WD01', 'XB06', 'XB35', 'YK01', 'QT01', 'MO01', 'XB07', 'CC08', 'DK01', 'UV62', 'XB08', 'ZG07']"
+Jiahao,43473279886,4,bundle_index = 2 does not exist,[],[],[]
+Jiahao,43452978184,4,bundle_index = 2 does not exist,[],[],[]
+Jiahao,43426870825,4,bundle_index = 1 does not exist,[],[],[]
+Jiahao,43168072227,4,22,"['CC02', 'CC19', 'MO01', 'CC05', 'CC07', 'DC15', 'QT14', 'SP03', 'UV45', 'XB04', 'YK05']","['CC04', 'DC01', 'GJ01', 'RG02', 'SJ03', 'SP01', 'UV01', 'WJ01', 'XN07', 'CC46', 'PZ08']","['CC02', 'CC19', 'MO01', 'CC05', 'CC07', 'DC15', 'QT14', 'SP03', 'UV45', 'XB04', 'YK05', 'CC04', 'DC01', 'GJ01', 'RG02', 'SJ03', 'SP01', 'UV01', 'WJ01', 'XN07', 'CC46', 'PZ08']"
+Jiahao,42981617542,4,4,['CC05'],"['CC08', 'PZ08', 'XN01']","['CC05', 'CC08', 'PZ08', 'XN01']"
+Jiahao,42681494957,4,4,['CC05'],"['CC40', 'XN01', 'PZ08']","['CC05', 'CC40', 'XN01', 'PZ08']"
+Jiahao,42468840454,4,16,"['CC02', 'BU01', 'CC01', 'FW18', 'JB01', 'JD01', 'MO02', 'PZ01', 'QC02', 'RG02', 'SJ28', 'SP02', 'UV01', 'XB07']","['CC04', 'DC10']","['CC02', 'BU01', 'CC01', 'FW18', 'JB01', 'JD01', 'MO02', 'PZ01', 'QC02', 'RG02', 'SJ28', 'SP02', 'UV01', 'XB07', 'CC04', 'DC10']"
+Jiahao,41802068265,4,19,"['CC24', 'FW11', 'MO06', 'PZ08', 'QT04', 'QT07', 'UV20', 'XB06', 'XN01', 'YK01']","['BU01', 'CC01', 'JB01', 'JD01', 'MO02', 'PZ01', 'QC02', 'UV01', 'XB07']","['CC24', 'FW11', 'MO06', 'PZ08', 'QT04', 'QT07', 'UV20', 'XB06', 'XN01', 'YK01', 'BU01', 'CC01', 'JB01', 'JD01', 'MO02', 'PZ01', 'QC02', 'UV01', 'XB07']"
+Jiahao,41599133465,4,bundle_index = 1 does not exist,[],[],[]
+Jiahao,41583985792,4,bundle_index = 1 does not exist,[],[],[]
+Jiahao,40565901878,4,bundle_index = 1 does not exist,[],[],[]
+Jiahao,40452911197,4,2,['CC24'],['CC23'],"['CC24', 'CC23']"
+Jiahao,40175359932,4,21,"['JZ01', 'MO06', 'ZG01', 'SP01', 'BU01', 'UV01', 'MO04', 'XB07', 'SP02', 'RG01', 'YK01', 'FW07', 'JC04', 'CC02', 'UV20', 'XB35', 'XN07', 'YK13']","['CC33', 'DC10', 'GJ04']","['JZ01', 'MO06', 'ZG01', 'SP01', 'BU01', 'UV01', 'MO04', 'XB07', 'SP02', 'RG01', 'YK01', 'FW07', 'JC04', 'CC02', 'UV20', 'XB35', 'XN07', 'YK13', 'CC33', 'DC10', 'GJ04']"
+Jiahao,40148868087,4,20,"['QT04', 'MO01', 'ND01', 'FD05', 'SP02', 'JZ02', 'DK12', 'RG02', 'FD01', 'FW15', 'CC38', 'XB06', 'ZG07']","['RG01', 'SJ28', 'SP01', 'XB07', 'XN07', 'YK13', 'ZG01']","['QT04', 'MO01', 'ND01', 'FD05', 'SP02', 'JZ02', 'DK12', 'RG02', 'FD01', 'FW15', 'CC38', 'XB06', 'ZG07', 'RG01', 'SJ28', 'SP01', 'XB07', 'XN07', 'YK13', 'ZG01']"
+Jiahao,40112687054,4,bundle_index = 1 does not exist,[],[],[]
+Jiahao,39237426326,4,bundle_index = 1 does not exist,[],[],[]
+Jiahao,38708270318,4,13,"['CC24', 'DZ01', 'FD01', 'QC02', 'SP01', 'MO15', 'UV36', 'XB35', 'YD01', 'YK01', 'ZG07']","['CC19', 'DC02']","['CC24', 'DZ01', 'FD01', 'QC02', 'SP01', 'MO15', 'UV36', 'XB35', 'YD01', 'YK01', 'ZG07', 'CC19', 'DC02']"
+Jiahao,38663832002,4,22,"['CC21', 'MO03']","['DZ01', 'GJ03', 'JB01', 'ND03', 'QC02', 'RG03', 'SP01', 'MO15', 'UV54', 'WD04', 'XB06', 'XN01', 'YD01', 'YK01', 'ZG07', 'CC23', 'DC08', 'FH02', 'YK05', 'ZG09']","['CC21', 'MO03', 'DZ01', 'GJ03', 'JB01', 'ND03', 'QC02', 'RG03', 'SP01', 'MO15', 'UV54', 'WD04', 'XB06', 'XN01', 'YD01', 'YK01', 'ZG07', 'CC23', 'DC08', 'FH02', 'YK05', 'ZG09']"
+Jiahao,38631814095,4,bundle_index = 2 does not exist,[],[],[]
+Jiahao,37994506504,4,bundle_index = 1 does not exist,[],[],[]
+Jiahao,37908516066,4,bundle_index = 1 does not exist,[],[],[]
+Jiahao,37870465778,4,bundle_index = 1 does not exist,[],[],[]
+Jiahao,37745552927,4,bundle_index = 1 does not exist,[],[],[]
+Jiahao,37443266749,4,10,"['CC20', 'CC38', 'UV01']","['CC21', 'WD01', 'CC40', 'SJ09', 'UV10', 'YK01', 'CC02']","['CC20', 'CC38', 'UV01', 'CC21', 'WD01', 'CC40', 'SJ09', 'UV10', 'YK01', 'CC02']"
+Jiahao,37241107923,4,bundle_index = 2 does not exist,[],[],[]
+Jiahao,36982442137,4,17,"['SJ01', 'XB65']","['CC07', 'DC13', 'DK05', 'FD01', 'FD05', 'FH01', 'GJ04', 'JC08', 'MO02', 'ND01', 'QT04', 'RG01', 'SJ02', 'WD05', 'XB05']","['SJ01', 'XB65', 'CC07', 'DC13', 'DK05', 'FD01', 'FD05', 'FH01', 'GJ04', 'JC08', 'MO02', 'ND01', 'QT04', 'RG01', 'SJ02', 'WD05', 'XB05']"
+Jiahao,36910165248,4,1,[],['DC08'],['DC08']
+Jiahao,36613205733,4,3,"['CC24', 'JZ02']",['CC23'],"['CC24', 'JZ02', 'CC23']"
+Jiahao,36574928690,4,bundle_index = 1 does not exist,[],[],[]
+Jiahao,36513357018,4,bundle_index = 2 does not exist,[],[],[]
+Jiahao,35674260254,4,13,[],"['CC08', 'DC01', 'MO08', 'BU01', 'SJ28', 'JB01', 'QC02', 'JZ03', 'SP01', 'UV01', 'ZG01', 'GJ01', 'DC08']","['CC08', 'DC01', 'MO08', 'BU01', 'SJ28', 'JB01', 'QC02', 'JZ03', 'SP01', 'UV01', 'ZG01', 'GJ01', 'DC08']"
+Jiahao,35557065616,4,bundle_index = 1 does not exist,[],[],[]
+Jiahao,35540978058,4,bundle_index = 1 does not exist,[],[],[]
+Jiahao,27462844289,4,16,"['BU01', 'CC02', 'FW20', 'QC02', 'WD01', 'XB07', 'ZG01']","['CC04', 'DC21', 'FD01', 'FW01', 'GJ01', 'JD03', 'QT03', 'RG02', 'SJ01']","['BU01', 'CC02', 'FW20', 'QC02', 'WD01', 'XB07', 'ZG01', 'CC04', 'DC21', 'FD01', 'FW01', 'GJ01', 'JD03', 'QT03', 'RG02', 'SJ01']"
+Jiahao,26519380192,4,7,"['CC02', 'DC10', 'DK06', 'CC01']","['WJ01', 'XN07', 'CC04']","['CC02', 'DC10', 'DK06', 'CC01', 'WJ01', 'XN07', 'CC04']"
+Jiahao,25673844634,4,bundle_index = 1 does not exist,[],[],[]
+Jiahao,24596036343,4,13,"['CC21', 'UV34', 'XB21', 'MO12', 'BU01']","['CC08', 'DK01', 'QT01', 'SJ03', 'MO04', 'UV03', 'XB50', 'YK13']","['CC21', 'UV34', 'XB21', 'MO12', 'BU01', 'CC08', 'DK01', 'QT01', 'SJ03', 'MO04', 'UV03', 'XB50', 'YK13']"
+Jiahao,24319152517,4,13,"['BD05', 'CD02', 'DC07', 'DC10', 'MS01', 'SJ18', 'SP01', 'UV01', 'XB07', 'XN09', 'YK01', 'ZG01']",['CC33'],"['BD05', 'CD02', 'DC07', 'DC10', 'MS01', 'SJ18', 'SP01', 'UV01', 'XB07', 'XN09', 'YK01', 'ZG01', 'CC33']"
+Jiahao,24291960195,4,22,"['CC38', 'DK01', 'FD01', 'FP01', 'MO01', 'QT14', 'RG01', 'SP02', 'UV60', 'WD01']","['BD05', 'BU01', 'CC33', 'CD02', 'DC07', 'DC10', 'MS01', 'SJ18', 'SP01', 'MO12', 'UV01', 'XN09']","['CC38', 'DK01', 'FD01', 'FP01', 'MO01', 'QT14', 'RG01', 'SP02', 'UV60', 'WD01', 'BD05', 'BU01', 'CC33', 'CD02', 'DC07', 'DC10', 'MS01', 'SJ18', 'SP01', 'MO12', 'UV01', 'XN09']"
+Jiahao,23969324559,4,19,"['CC06', 'QT04', 'SP01', 'UV20', 'WJ01', 'XN01', 'XN07', 'YD02', 'YK13']","['CC38', 'DC01', 'FP01', 'FW15', 'QT14', 'SP02', 'UV60', 'YK01', 'CC07', 'DC21']","['CC06', 'QT04', 'SP01', 'UV20', 'WJ01', 'XN01', 'XN07', 'YD02', 'YK13', 'CC38', 'DC01', 'FP01', 'FW15', 'QT14', 'SP02', 'UV60', 'YK01', 'CC07', 'DC21']"
+Jiahao,23924620234,4,bundle_index = 1 does not exist,[],[],[]
+Jiahao,23896264169,4,3,['MO06'],"['DC04', 'SJ07']","['MO06', 'DC04', 'SJ07']"
+Jiahao,20728727154,4,2,['CC01'],['CC04'],"['CC01', 'CC04']"
+Jiahao,20373091017,4,bundle_index = 1 does not exist,[],[],[]
+Jiahao,20186366493,4,12,"['CC05', 'XB35', 'FD05', 'FD01', 'SP02', 'QT01', 'SJ28', 'JC05']","['CC08', 'DC08', 'UV58', 'XB05']","['CC05', 'XB35', 'FD05', 'FD01', 'SP02', 'QT01', 'SJ28', 'JC05', 'CC08', 'DC08', 'UV58', 'XB05']"
+Jiahao,20167630571,4,bundle_index = 1 does not exist,[],[],[]
+Jiahao,19999809846,4,12,"['CC01', 'QC02', 'QT07', 'RG01', 'SJ28', 'XB21', 'XN01', 'ZG01']","['CC08', 'DC21', 'SJ01', 'CC04']","['CC01', 'QC02', 'QT07', 'RG01', 'SJ28', 'XB21', 'XN01', 'ZG01', 'CC08', 'DC21', 'SJ01', 'CC04']"
+Jiahao,18999829018,4,bundle_index = 1 does not exist,[],[],[]
+Jiahao,18820622609,4,bundle_index = 2 does not exist,[],[],[]
+Jiahao,18352298789,4,25,"['BU04', 'CC07', 'FP01', 'FW06', 'FW07', 'JZ01', 'MO09', 'ND01', 'QT01', 'UV02', 'WD01']","['BU01', 'CC08', 'DC01', 'GJ01', 'JB01', 'JZ03', 'QC02', 'SJ28', 'SP01', 'MO08', 'UV01', 'XB07', 'YK01', 'ZG01']","['BU04', 'CC07', 'FP01', 'FW06', 'FW07', 'JZ01', 'MO09', 'ND01', 'QT01', 'UV02', 'WD01', 'BU01', 'CC08', 'DC01', 'GJ01', 'JB01', 'JZ03', 'QC02', 'SJ28', 'SP01', 'MO08', 'UV01', 'XB07', 'YK01', 'ZG01']"
+Jiahao,18053093587,4,14,[],"['BU04', 'CC07', 'DC21', 'DK01', 'FD01', 'FP01', 'FW06', 'FW07', 'JZ01', 'MO09', 'ND01', 'QT01', 'UV02', 'WD01']","['BU04', 'CC07', 'DC21', 'DK01', 'FD01', 'FP01', 'FW06', 'FW07', 'JZ01', 'MO09', 'ND01', 'QT01', 'UV02', 'WD01']"
+Jiahao,16831203027,4,24,"['CC02', 'JZ01', 'FD05', 'BU04', 'MO16', 'FH03', 'SJ23', 'QC02', 'FW15', 'FW16', 'CC05', 'XB35', 'MO15', 'ZG18', 'UV12', 'SP02', 'FD01', 'JB01', 'DK09']","['CC33', 'XN01', 'YK01', 'XB60', 'ND01']","['CC02', 'JZ01', 'FD05', 'BU04', 'MO16', 'FH03', 'SJ23', 'QC02', 'FW15', 'FW16', 'CC05', 'XB35', 'MO15', 'ZG18', 'UV12', 'SP02', 'FD01', 'JB01', 'DK09', 'CC33', 'XN01', 'YK01', 'XB60', 'ND01']"
+Jiahao,5.23084E+11,5,16,"['CC06', 'UV48', 'XB35', 'CC16', 'DK01', 'MO01', 'UV12', 'XB07']","['CC07', 'UV30', 'XB09', 'ZG07', 'FW03', 'DC15', 'YK04', 'SJ25']","['CC06', 'UV48', 'XB35', 'CC16', 'DK01', 'MO01', 'UV12', 'XB07', 'CC07', 'UV30', 'XB09', 'ZG07', 'FW03', 'DC15', 'YK04', 'SJ25']"
+Jiahao,5.21514E+11,5,21,"['CC05', 'DK07', 'FW11', 'FW19', 'JC04', 'JD02', 'MO05', 'UV01', 'WJ01', 'XB07', 'ZG01']","['CC38', 'DC02', 'DK01', 'GJ04', 'PZ08', 'SJ29', 'JD03', 'UV02', 'XB05', 'YK01']","['CC05', 'DK07', 'FW11', 'FW19', 'JC04', 'JD02', 'MO05', 'UV01', 'WJ01', 'XB07', 'ZG01', 'CC38', 'DC02', 'DK01', 'GJ04', 'PZ08', 'SJ29', 'JD03', 'UV02', 'XB05', 'YK01']"
+Jiahao,5.23777E+11,5,bundle_index = 1 does not exist,[],[],[]
+Jiahao,5.22864E+11,5,15,"['CC07', 'JZ02', 'MO04', 'MO10', 'QC02', 'UV38', 'XB06']","['CC13', 'DC13', 'MO01', 'QT15', 'UV12', 'XB07', 'YK05', 'ZG18']","['CC07', 'JZ02', 'MO04', 'MO10', 'QC02', 'UV38', 'XB06', 'CC13', 'DC13', 'MO01', 'QT15', 'UV12', 'XB07', 'YK05', 'ZG18']"
+Jiahao,5.22744E+11,5,24,"['CC38', 'CC06', 'DK09', 'FD01', 'FD05', 'MO09', 'FW15', 'FW07', 'JC06', 'JC08', 'JZ01', 'LP01', 'MO05', 'ND01', 'QT07', 'QT17', 'RG01', 'UV01', 'WD01', 'XB35', 'YK02', 'ZG01']","['CC39', 'DC20']","['CC38', 'CC06', 'DK09', 'FD01', 'FD05', 'MO09', 'FW15', 'FW07', 'JC06', 'JC08', 'JZ01', 'LP01', 'MO05', 'ND01', 'QT07', 'QT17', 'RG01', 'UV01', 'WD01', 'XB35', 'YK02', 'ZG01', 'CC39', 'DC20']"
+Jiahao,5.22145E+11,5,bundle_index = 1 does not exist,[],[],[]
+Jiahao,5.22098E+11,5,17,"['CC06', 'XB35', 'CC01', 'DK06', 'FW01', 'FW08', 'JP04', 'MO06', 'QT04', 'SP01', 'UV01', 'XN07', 'ZG03']","['CC08', 'DC07', 'SJ01', 'SP02']","['CC06', 'XB35', 'CC01', 'DK06', 'FW01', 'FW08', 'JP04', 'MO06', 'QT04', 'SP01', 'UV01', 'XN07', 'ZG03', 'CC08', 'DC07', 'SJ01', 'SP02']"
+Jiahao,5.22086E+11,5,bundle_index = 1 does not exist,[],[],[]
+Jiahao,5.22034E+11,5,20,"['CC25', 'DC19', 'DK13', 'MO12', 'QT10', 'UV59', 'XB06', 'YK10', 'CC17', 'UV53', 'XB52', 'YK05']","['CC15', 'DC01', 'RG01', 'SJ15', 'UV51', 'XB54', 'XN07', 'YK01']","['CC25', 'DC19', 'DK13', 'MO12', 'QT10', 'UV59', 'XB06', 'YK10', 'CC17', 'UV53', 'XB52', 'YK05', 'CC15', 'DC01', 'RG01', 'SJ15', 'UV51', 'XB54', 'XN07', 'YK01']"
+Jiahao,5.2187E+11,5,8,"['CC19', 'UV34']","['CC08', 'DC02', 'SJ29', 'UV43', 'WD05', 'YK02']","['CC19', 'UV34', 'CC08', 'DC02', 'SJ29', 'UV43', 'WD05', 'YK02']"
+Jiahao,45410114111,5,13,"['CC24', 'UV36', 'XB35']","['CC18', 'DC02', 'GJ03', 'JB01', 'ND03', 'RG03', 'UV54', 'WD04', 'XB06', 'XN01']","['CC24', 'UV36', 'XB35', 'CC18', 'DC02', 'GJ03', 'JB01', 'ND03', 'RG03', 'UV54', 'WD04', 'XB06', 'XN01']"
+Jiahao,45293052304,5,11,"['CC05', 'DK01', 'MO11', 'XB35']","['UV54', 'WD04', 'XB06', 'XN01', 'YD01', 'YK01', 'ZG07']","['CC05', 'DK01', 'MO11', 'XB35', 'UV54', 'WD04', 'XB06', 'XN01', 'YD01', 'YK01', 'ZG07']"
+Jiahao,45219159638,5,26,"['CC06', 'UV16', 'XB05', 'CC21', 'MO03']","['CC29', 'DC15', 'DK01', 'MO11', 'UV54', 'XB63', 'ZG01', 'CC31', 'DC02', 'JB03', 'QT05', 'SJ11', 'UV47', 'WD01', 'XB26', 'YK05', 'CC19', 'FH02', 'DC09', 'JB01', 'ZG09']","['CC06', 'UV16', 'XB05', 'CC21', 'MO03', 'CC29', 'DC15', 'DK01', 'MO11', 'UV54', 'XB63', 'ZG01', 'CC31', 'DC02', 'JB03', 'QT05', 'SJ11', 'UV47', 'WD01', 'XB26', 'YK05', 'CC19', 'FH02', 'DC09', 'JB01', 'ZG09']"
+Jiahao,44881048637,5,bundle_index = 1 does not exist,[],[],[]
+Jiahao,44799642380,5,19,"['BU01', 'CC06', 'FW07', 'JB01', 'JZ03', 'LP02', 'MO01', 'MO02', 'XB07', 'CC07', 'UV25', 'XB44', 'DK12']","['CC08', 'UV24', 'XB40', 'DC02', 'QT04', 'SJ10']","['BU01', 'CC06', 'FW07', 'JB01', 'JZ03', 'LP02', 'MO01', 'MO02', 'XB07', 'CC07', 'UV25', 'XB44', 'DK12', 'CC08', 'UV24', 'XB40', 'DC02', 'QT04', 'SJ10']"
+Jiahao,44331296085,5,bundle_index = 1 does not exist,[],[],[]
+Jiahao,44231886556,5,8,"['CC06', 'XB05', 'YK02', 'ZG03']","['CC07', 'DC02', 'PZ03', 'SJ01']","['CC06', 'XB05', 'YK02', 'ZG03', 'CC07', 'DC02', 'PZ03', 'SJ01']"
+Jiahao,44069100271,5,8,['CC05'],"['XB19', 'YK02', 'ZG03', 'CC46', 'UV22', 'DC01', 'PZ02']","['CC05', 'XB19', 'YK02', 'ZG03', 'CC46', 'UV22', 'DC01', 'PZ02']"
+Jiahao,44021641588,5,bundle_index = 2 does not exist,[],[],[]
+Jiahao,43859660891,5,29,"['CC17', 'ND01', 'CC24', 'XB35', 'ZG07', 'UV36', 'SP02', 'QC02', 'YK02', 'DK09', 'MO16', 'JB01', 'FC01', 'FP02', 'JC02']","['CC08', 'DC13', 'QT01', 'SP01', 'JD03', 'UV29', 'WD01', 'XB21', 'YK01', 'ZG01', 'XB60', 'CC15', 'DC07', 'UV31']","['CC17', 'ND01', 'CC24', 'XB35', 'ZG07', 'UV36', 'SP02', 'QC02', 'YK02', 'DK09', 'MO16', 'JB01', 'FC01', 'FP02', 'JC02', 'CC08', 'DC13', 'QT01', 'SP01', 'JD03', 'UV29', 'WD01', 'XB21', 'YK01', 'ZG01', 'XB60', 'CC15', 'DC07', 'UV31']"
+Jiahao,43853759026,5,28,['CC02'],"['CC16', 'XB36', 'ZG07', 'UV54', 'SP02', 'FD01', 'QC02', 'YK02', 'BU01', 'MO01', 'DK09', 'MO16', 'JB01', 'FC01', 'FP02', 'DC02', 'RG03', 'ND01', 'WD04', 'JC02', 'EJ02', 'YD01', 'CC04', 'FW01', 'XB60', 'XN01', 'YK01']","['CC02', 'CC16', 'XB36', 'ZG07', 'UV54', 'SP02', 'FD01', 'QC02', 'YK02', 'BU01', 'MO01', 'DK09', 'MO16', 'JB01', 'FC01', 'FP02', 'DC02', 'RG03', 'ND01', 'WD04', 'JC02', 'EJ02', 'YD01', 'CC04', 'FW01', 'XB60', 'XN01', 'YK01']"
+Jiahao,43736454825,5,25,"['BU04', 'CC06', 'CC19', 'DK05', 'DK08', 'MO02', 'RG02', 'UV34', 'UV61', 'WD01', 'XB06', 'XB35', 'YK01', 'QT01', 'MO01', 'XB07']","['CC07', 'DC15', 'DK01', 'FW02', 'SJ01', 'UV63', 'XB09', 'YK04', 'ZG01']","['BU04', 'CC06', 'CC19', 'DK05', 'DK08', 'MO02', 'RG02', 'UV34', 'UV61', 'WD01', 'XB06', 'XB35', 'YK01', 'QT01', 'MO01', 'XB07', 'CC07', 'DC15', 'DK01', 'FW02', 'SJ01', 'UV63', 'XB09', 'YK04', 'ZG01']"
+Jiahao,43473279886,5,bundle_index = 2 does not exist,[],[],[]
+Jiahao,43452978184,5,bundle_index = 2 does not exist,[],[],[]
+Jiahao,43426870825,5,bundle_index = 1 does not exist,[],[],[]
+Jiahao,43168072227,5,14,"['CC19', 'MO01', 'CC07', 'DC15', 'QT14', 'SP03', 'UV45', 'XB04', 'XN01', 'YK05']","['SJ06', 'XB06', '', 'DC01']","['CC19', 'MO01', 'CC07', 'DC15', 'QT14', 'SP03', 'UV45', 'XB04', 'XN01', 'YK05', 'SJ06', 'XB06', '', 'DC01']"
+Jiahao,42981617542,5,1,[],['DC01'],['DC01']
+Jiahao,42681494957,5,11,"['XB07', 'DK01', 'MO07', 'UV20', 'ZG03', 'YK01', 'RG01', 'WD01', 'FD01', 'QT01', 'SP02']",[],"['XB07', 'DK01', 'MO07', 'UV20', 'ZG03', 'YK01', 'RG01', 'WD01', 'FD01', 'QT01', 'SP02']"
+Jiahao,42468840454,5,24,"['CC02', 'FW20', 'JZ03', 'MO01', 'ND03', 'QT04', 'XB04', 'ZG01', 'BU01', 'CC01', 'FW18', 'JB01', 'JD01', 'MO02', 'PZ01', 'QC02', 'RG02', 'SJ28', 'UV01']","['DC01', 'MO07', 'ZG03', 'RG01', 'QT01']","['CC02', 'FW20', 'JZ03', 'MO01', 'ND03', 'QT04', 'XB04', 'ZG01', 'BU01', 'CC01', 'FW18', 'JB01', 'JD01', 'MO02', 'PZ01', 'QC02', 'RG02', 'SJ28', 'UV01', 'DC01', 'MO07', 'ZG03', 'RG01', 'QT01']"
+Jiahao,41802068265,5,19,"['CC24', 'FW11', 'MO06', 'PZ08', 'QT04', 'QT07', 'UV20', 'XB06', 'XN01', 'YK01']","['BU01', 'CC02', 'JB01', 'JD01', 'MO02', 'PZ01', 'QC02', 'UV01', 'XB07']","['CC24', 'FW11', 'MO06', 'PZ08', 'QT04', 'QT07', 'UV20', 'XB06', 'XN01', 'YK01', 'BU01', 'CC02', 'JB01', 'JD01', 'MO02', 'PZ01', 'QC02', 'UV01', 'XB07']"
+Jiahao,41599133465,5,bundle_index = 1 does not exist,[],[],[]
+Jiahao,41583985792,5,bundle_index = 1 does not exist,[],[],[]
+Jiahao,40565901878,5,bundle_index = 1 does not exist,[],[],[]
+Jiahao,40452911197,5,5,[],"['QT02', 'DC21', 'JB01', 'QC02', 'QT19']","['QT02', 'DC21', 'JB01', 'QC02', 'QT19']"
+Jiahao,40175359932,5,bundle_index = 2 does not exist,[],[],[]
+Jiahao,40148868087,5,20,"['SP02', 'JZ02', 'DK12', 'RG02', 'FW15', 'CC38', 'XB06', 'ZG07']","['CC04', 'DC10', 'DK01', 'MO09', 'GJ04', 'RG01', 'SJ28', 'SP01', 'XB07', 'XN07', 'YK13', 'ZG01']","['SP02', 'JZ02', 'DK12', 'RG02', 'FW15', 'CC38', 'XB06', 'ZG07', 'CC04', 'DC10', 'DK01', 'MO09', 'GJ04', 'RG01', 'SJ28', 'SP01', 'XB07', 'XN07', 'YK13', 'ZG01']"
+Jiahao,40112687054,5,bundle_index = 1 does not exist,[],[],[]
+Jiahao,39237426326,5,bundle_index = 1 does not exist,[],[],[]
+Jiahao,38708270318,5,bundle_index = 2 does not exist,[],[],[]
+Jiahao,38663832002,5,26,"['CC21', 'MO03']","['BU01', 'CC15', 'DC02', 'DK01', 'DZ01', 'GJ03', 'JB01', 'ND03', 'QC02', 'RG03', 'SP01', 'MO15', 'UV54', 'WD04', 'XB06', 'XN01', 'YD01', 'YK01', 'ZG07', 'CC19', 'DC09', 'FH02', 'YK05', 'ZG09']","['CC21', 'MO03', 'BU01', 'CC15', 'DC02', 'DK01', 'DZ01', 'GJ03', 'JB01', 'ND03', 'QC02', 'RG03', 'SP01', 'MO15', 'UV54', 'WD04', 'XB06', 'XN01', 'YD01', 'YK01', 'ZG07', 'CC19', 'DC09', 'FH02', 'YK05', 'ZG09']"
+Jiahao,38631814095,5,bundle_index = 2 does not exist,[],[],[]
+Jiahao,37994506504,5,bundle_index = 1 does not exist,[],[],[]
+Jiahao,37908516066,5,bundle_index = 1 does not exist,[],[],[]
+Jiahao,37870465778,5,bundle_index = 1 does not exist,[],[],[]
+Jiahao,37745552927,5,bundle_index = 1 does not exist,[],[],[]
+Jiahao,37443266749,5,9,"['CC20', 'CC38', 'FD01', 'JZ03', 'MO08', 'UV01', 'ZG01']","['CC22', 'WD01']","['CC20', 'CC38', 'FD01', 'JZ03', 'MO08', 'UV01', 'ZG01', 'CC22', 'WD01']"
+Jiahao,37241107923,5,11,"['CC06', 'DK05', 'FD01', 'FD05', 'FH01', 'JC08', 'MO02', 'ND01', 'RG01']","['CC33', 'DC07']","['CC06', 'DK05', 'FD01', 'FD05', 'FH01', 'JC08', 'MO02', 'ND01', 'RG01', 'CC33', 'DC07']"
+Jiahao,36982442137,5,17,"['SJ01', 'XB65']","['CC08', 'DC13', 'DK05', 'FD01', 'FD05', 'FH01', 'GJ04', 'JC08', 'MO02', 'ND01', 'QT04', 'RG01', 'SJ02', 'WD05', 'XB05']","['SJ01', 'XB65', 'CC08', 'DC13', 'DK05', 'FD01', 'FD05', 'FH01', 'GJ04', 'JC08', 'MO02', 'ND01', 'QT04', 'RG01', 'SJ02', 'WD05', 'XB05']"
+Jiahao,36910165248,5,11,"['CC06', 'RG02', 'MO04', 'UV03', 'WD01', 'XB07', 'XN01', 'YK01', 'ZG21']","['CC07', 'DC08']","['CC06', 'RG02', 'MO04', 'UV03', 'WD01', 'XB07', 'XN01', 'YK01', 'ZG21', 'CC07', 'DC08']"
+Jiahao,36613205733,5,16,"['CC24', 'DK14', 'QT07', 'MO06', 'UV01', 'FD01', 'ZG03', 'QC02', 'JB01', 'SJ02', 'ND01', 'JZ02']","['RG02', 'MO04', 'UV03', 'ZG21']","['CC24', 'DK14', 'QT07', 'MO06', 'UV01', 'FD01', 'ZG03', 'QC02', 'JB01', 'SJ02', 'ND01', 'JZ02', 'RG02', 'MO04', 'UV03', 'ZG21']"
+Jiahao,36574928690,5,bundle_index = 1 does not exist,[],[],[]
+Jiahao,36513357018,5,bundle_index = 2 does not exist,[],[],[]
+Jiahao,35674260254,5,17,"['DK01', 'DZ02', 'FD01', 'JC06', 'MO01', 'ND01', 'QT14', 'RG02', 'UV03', 'WD01', 'XB07', 'XN01', 'YK01', 'ZG07']","['CC07', 'DC02', 'DC08']","['DK01', 'DZ02', 'FD01', 'JC06', 'MO01', 'ND01', 'QT14', 'RG02', 'UV03', 'WD01', 'XB07', 'XN01', 'YK01', 'ZG07', 'CC07', 'DC02', 'DC08']"
+Jiahao,35557065616,5,bundle_index = 1 does not exist,[],[],[]
+Jiahao,35540978058,5,bundle_index = 1 does not exist,[],[],[]
+Jiahao,27462844289,5,bundle_index = 2 does not exist,[],[],[]
+Jiahao,26519380192,5,22,"['CC02', 'DC10', 'DK06', 'MO02', 'QT07', 'UV01', 'XB07', 'FD01', 'JB01', 'JZ02', 'ND01', 'QC02', 'RG01', 'SJ28', 'SP01', 'WD01', 'XB21', 'XN01', 'YK01', 'ZG01']","['BJ01', 'DC01']","['CC02', 'DC10', 'DK06', 'MO02', 'QT07', 'UV01', 'XB07', 'FD01', 'JB01', 'JZ02', 'ND01', 'QC02', 'RG01', 'SJ28', 'SP01', 'WD01', 'XB21', 'XN01', 'YK01', 'ZG01', 'BJ01', 'DC01']"
+Jiahao,25673844634,5,bundle_index = 1 does not exist,[],[],[]
+Jiahao,24596036343,5,bundle_index = 2 does not exist,[],[],[]
+Jiahao,24319152517,5,bundle_index = 2 does not exist,[],[],[]
+Jiahao,24291960195,5,bundle_index = 2 does not exist,[],[],[]
+Jiahao,23969324559,5,23,"['BU01', 'CC06', 'FD07', 'FH04', 'FW06', 'FW07', 'ND01', 'QT04', 'SP01', 'UV20', 'WJ01', 'XN01', 'XN07', 'YD02', 'YK13']","['CC39', 'DC01', 'FP01', 'FW15', 'QT14', 'SP02', 'UV60', 'YK01']","['BU01', 'CC06', 'FD07', 'FH04', 'FW06', 'FW07', 'ND01', 'QT04', 'SP01', 'UV20', 'WJ01', 'XN01', 'XN07', 'YD02', 'YK13', 'CC39', 'DC01', 'FP01', 'FW15', 'QT14', 'SP02', 'UV60', 'YK01']"
+Jiahao,23924620234,5,bundle_index = 1 does not exist,[],[],[]
+Jiahao,23896264169,5,5,"['CC01', 'SJ01']","['CC02', 'DC04', 'SJ07']","['CC01', 'SJ01', 'CC02', 'DC04', 'SJ07']"
+Jiahao,20728727154,5,5,['SJ02'],"['DC01', 'BJ01', 'PZ01', 'SJ03']","['SJ02', 'DC01', 'BJ01', 'PZ01', 'SJ03']"
+Jiahao,20373091017,5,bundle_index = 1 does not exist,[],[],[]
+Jiahao,20186366493,5,17,"['CC06', 'CC05', 'XB35', 'UV12', 'JZ02', 'BU01', 'XN04', 'ZG01', 'FD05', 'FD01', 'SP02', 'QT01', 'SJ28', 'JC05']","['CC08', 'DC01', 'UV58']","['CC06', 'CC05', 'XB35', 'UV12', 'JZ02', 'BU01', 'XN04', 'ZG01', 'FD05', 'FD01', 'SP02', 'QT01', 'SJ28', 'JC05', 'CC08', 'DC01', 'UV58']"
+Jiahao,20167630571,5,bundle_index = 1 does not exist,[],[],[]
+Jiahao,19999809846,5,13,"['DK14', 'JB01', 'JZ02', 'MO02', 'QC02', 'QT07', 'RG01', 'SJ28', 'XB21', 'XN01', 'ZG01']","['DC21', 'SJ01']","['DK14', 'JB01', 'JZ02', 'MO02', 'QC02', 'QT07', 'RG01', 'SJ28', 'XB21', 'XN01', 'ZG01', 'DC21', 'SJ01']"
+Jiahao,18999829018,5,bundle_index = 1 does not exist,[],[],[]
+Jiahao,18820622609,5,bundle_index = 2 does not exist,[],[],[]
+Jiahao,18352298789,5,bundle_index = 2 does not exist,[],[],[]
+Jiahao,18053093587,5,14,[],"['BU04', 'CC07', 'DC01', 'DK01', 'FD01', 'FP01', 'FW06', 'FW07', 'JZ01', 'MO09', 'ND01', 'QT01', 'UV02', 'WD01']","['BU04', 'CC07', 'DC01', 'DK01', 'FD01', 'FP01', 'FW06', 'FW07', 'JZ01', 'MO09', 'ND01', 'QT01', 'UV02', 'WD01']"
+Jiahao,16831203027,5,23,"['CC02', 'JZ01', 'FD05', 'BU04', 'MO16', 'FH03', 'QC02', 'FW15', 'FW16', 'CC05', 'XB35', 'MO15', 'ZG18', 'UV12', 'SP02', 'FD01', 'JB01', 'DK09']","['CC04', 'XN01', 'YK01', 'XB60', 'ND01']","['CC02', 'JZ01', 'FD05', 'BU04', 'MO16', 'FH03', 'QC02', 'FW15', 'FW16', 'CC05', 'XB35', 'MO15', 'ZG18', 'UV12', 'SP02', 'FD01', 'JB01', 'DK09', 'CC04', 'XN01', 'YK01', 'XB60', 'ND01']"
+Jiahao,5.23084E+11,6,16,"['CC06', 'UV48', 'XB35', 'CC16', 'DK01', 'MO01', 'UV12', 'XB07']","['CC08', 'UV30', 'XB09', 'ZG07', 'FW03', 'DC15', 'YK04', 'SJ25']","['CC06', 'UV48', 'XB35', 'CC16', 'DK01', 'MO01', 'UV12', 'XB07', 'CC08', 'UV30', 'XB09', 'ZG07', 'FW03', 'DC15', 'YK04', 'SJ25']"
+Jiahao,5.21514E+11,6,21,"['CC05', 'DK07', 'FW11', 'FW19', 'JC04', 'JD02', 'MO05', 'SP02', 'UV01', 'WJ01', 'XB07', 'ZG01', 'MO17', 'WD01', 'XN01']","['YK02', 'CC40', 'DC02', 'DK01', 'GJ04', 'PZ08']","['CC05', 'DK07', 'FW11', 'FW19', 'JC04', 'JD02', 'MO05', 'SP02', 'UV01', 'WJ01', 'XB07', 'ZG01', 'MO17', 'WD01', 'XN01', 'YK02', 'CC40', 'DC02', 'DK01', 'GJ04', 'PZ08']"
+Jiahao,5.23777E+11,6,bundle_index = 1 does not exist,[],[],[]
+Jiahao,5.22864E+11,6,15,"['CC07', 'JZ02', 'MO04', 'MO10', 'QC02', 'UV38', 'XB06']","['CC15', 'DC02', 'MO01', 'QT15', 'UV12', 'XB07', 'YK05', 'ZG18']","['CC07', 'JZ02', 'MO04', 'MO10', 'QC02', 'UV38', 'XB06', 'CC15', 'DC02', 'MO01', 'QT15', 'UV12', 'XB07', 'YK05', 'ZG18']"
+Jiahao,5.22744E+11,6,24,"['CC38', 'CC06', 'DK09', 'FD01', 'FD05', 'MO09', 'FW15', 'FW07', 'JC06', 'JC08', 'JZ01', 'LP01', 'MO05', 'ND01', 'QT07', 'QT17', 'RG01', 'UV01', 'WD01', 'XB35', 'YK02', 'ZG01']","['CC40', 'DC20']","['CC38', 'CC06', 'DK09', 'FD01', 'FD05', 'MO09', 'FW15', 'FW07', 'JC06', 'JC08', 'JZ01', 'LP01', 'MO05', 'ND01', 'QT07', 'QT17', 'RG01', 'UV01', 'WD01', 'XB35', 'YK02', 'ZG01', 'CC40', 'DC20']"
+Jiahao,5.22145E+11,6,bundle_index = 1 does not exist,[],[],[]
+Jiahao,5.22098E+11,6,bundle_index = 2 does not exist,[],[],[]
+Jiahao,5.22086E+11,6,bundle_index = 1 does not exist,[],[],[]
+Jiahao,5.22034E+11,6,20,"['CC25', 'DC19', 'DK13', 'MO12', 'QT10', 'UV59', 'YK10', 'CC17', 'UV53', 'XB52', 'YK05']","['XN07', 'YK01', 'ZG03', 'CC15', 'DC01', 'RG01', 'SJ15', 'UV52', 'XB55']","['CC25', 'DC19', 'DK13', 'MO12', 'QT10', 'UV59', 'YK10', 'CC17', 'UV53', 'XB52', 'YK05', 'XN07', 'YK01', 'ZG03', 'CC15', 'DC01', 'RG01', 'SJ15', 'UV52', 'XB55']"
+Jiahao,5.2187E+11,6,9,"['CC19', 'UV34', 'XB05']","['CC07', 'DC02', 'SJ29', 'UV43', 'WD05', 'XB62']","['CC19', 'UV34', 'XB05', 'CC07', 'DC02', 'SJ29', 'UV43', 'WD05', 'XB62']"
+Jiahao,45410114111,6,20,"['CC24', 'UV36', 'XB35']","['SJ29', 'SP02', 'MO17', 'JD03', 'UV02', 'WD01', 'XB05', 'XN01', 'CC18', 'DC02', 'GJ03', 'JB01', 'ND03', 'RG03', 'UV54', 'WD04', 'XB06']","['CC24', 'UV36', 'XB35', 'SJ29', 'SP02', 'MO17', 'JD03', 'UV02', 'WD01', 'XB05', 'XN01', 'CC18', 'DC02', 'GJ03', 'JB01', 'ND03', 'RG03', 'UV54', 'WD04', 'XB06']"
+Jiahao,45293052304,6,22,"['CC05', 'MO11', 'XB35']","['BU01', 'CC18', 'DC02', 'DZ01', 'FD01', 'GJ03', 'JB01', 'ND03', 'QC02', 'RG03', 'SP01', 'MO15', 'UV54', 'WD04', 'XB06', 'XN01', 'YD01', 'YK01', 'ZG07']","['CC05', 'MO11', 'XB35', 'BU01', 'CC18', 'DC02', 'DZ01', 'FD01', 'GJ03', 'JB01', 'ND03', 'QC02', 'RG03', 'SP01', 'MO15', 'UV54', 'WD04', 'XB06', 'XN01', 'YD01', 'YK01', 'ZG07']"
+Jiahao,45219159638,6,23,"['CC06', 'DK09', 'MO12', 'UV16', 'XB05', 'CC21', 'XB18', 'UV36', 'MO03', 'DK12', 'MO04', 'SP03', 'BU05', 'FD01', 'QT01']","['CC30', 'DC15', 'DK01', 'MO11', 'UV54', 'XB63', 'ZG01', 'CC15']","['CC06', 'DK09', 'MO12', 'UV16', 'XB05', 'CC21', 'XB18', 'UV36', 'MO03', 'DK12', 'MO04', 'SP03', 'BU05', 'FD01', 'QT01', 'CC30', 'DC15', 'DK01', 'MO11', 'UV54', 'XB63', 'ZG01', 'CC15']"
+Jiahao,44881048637,6,bundle_index = 1 does not exist,[],[],[]
+Jiahao,44799642380,6,bundle_index = 2 does not exist,[],[],[]
+Jiahao,44331296085,6,bundle_index = 1 does not exist,[],[],[]
+Jiahao,44231886556,6,bundle_index = 2 does not exist,[],[],[]
+Jiahao,44069100271,6,30,"['CC06', 'QT01', 'XB06', 'DK01', 'FD05', 'XN07', 'YK01', 'SP01', 'ZG01', 'CC05', 'JB01', 'MO02', 'QC02', 'UV12', 'XB60']","['BU04', 'CC08', 'DC02', 'DK05', 'FP01', 'MO06', 'PZ03', 'SJ01', 'UV04', 'WD01', 'XB19', 'YK02', 'ZG03', 'CC07', 'DC01']","['CC06', 'QT01', 'XB06', 'DK01', 'FD05', 'XN07', 'YK01', 'SP01', 'ZG01', 'CC05', 'JB01', 'MO02', 'QC02', 'UV12', 'XB60', 'BU04', 'CC08', 'DC02', 'DK05', 'FP01', 'MO06', 'PZ03', 'SJ01', 'UV04', 'WD01', 'XB19', 'YK02', 'ZG03', 'CC07', 'DC01']"
+Jiahao,44021641588,6,10,['XB21'],"['FD01', 'JB01', 'JZ01', 'MO02', 'QC02', 'UV12', 'XB60', 'YK01', 'ZG01']","['XB21', 'FD01', 'JB01', 'JZ01', 'MO02', 'QC02', 'UV12', 'XB60', 'YK01', 'ZG01']"
+Jiahao,43859660891,6,bundle_index = 2 does not exist,[],[],[]
+Jiahao,43853759026,6,31,['CC02'],"['CC15', 'XB36', 'ZG07', 'UV54', 'SP02', 'FD01', 'QC02', 'YK02', 'BU01', 'MO01', 'DK09', 'MO16', 'JB01', 'FC01', 'FP02', 'DC02', 'RG03', 'ND01', 'WD04', 'BD03', 'JC02', 'EJ02', 'YD01', 'CC33', 'FW01', 'WJ01', 'XB68', 'XN01', 'XN07', 'YK01']","['CC02', 'CC15', 'XB36', 'ZG07', 'UV54', 'SP02', 'FD01', 'QC02', 'YK02', 'BU01', 'MO01', 'DK09', 'MO16', 'JB01', 'FC01', 'FP02', 'DC02', 'RG03', 'ND01', 'WD04', 'BD03', 'JC02', 'EJ02', 'YD01', 'CC33', 'FW01', 'WJ01', 'XB68', 'XN01', 'XN07', 'YK01']"
+Jiahao,43736454825,6,25,"['BU04', 'CC06', 'CC19', 'DK05', 'DK08', 'MO02', 'RG02', 'UV34', 'UV61', 'WD01', 'XB06', 'XB35', 'YK01', 'QT01', 'MO01', 'XB07']","['CC08', 'DC15', 'DK01', 'FW02', 'SJ01', 'UV63', 'XB09', 'YK04', 'ZG01']","['BU04', 'CC06', 'CC19', 'DK05', 'DK08', 'MO02', 'RG02', 'UV34', 'UV61', 'WD01', 'XB06', 'XB35', 'YK01', 'QT01', 'MO01', 'XB07', 'CC08', 'DC15', 'DK01', 'FW02', 'SJ01', 'UV63', 'XB09', 'YK04', 'ZG01']"
+Jiahao,43473279886,6,bundle_index = 2 does not exist,[],[],[]
+Jiahao,43452978184,6,bundle_index = 2 does not exist,[],[],[]
+Jiahao,43426870825,6,bundle_index = 1 does not exist,[],[],[]
+Jiahao,43168072227,6,19,"['CC02', 'DK06', 'MO02', 'QT04', 'ZG01', 'CC19', 'MO01', 'CC05', 'CC07', 'DC15', 'QT14', 'SP03', 'UV45', 'XB04', 'XN01', 'YK05']","['CC38', 'DC01', 'SJ01']","['CC02', 'DK06', 'MO02', 'QT04', 'ZG01', 'CC19', 'MO01', 'CC05', 'CC07', 'DC15', 'QT14', 'SP03', 'UV45', 'XB04', 'XN01', 'YK05', 'CC38', 'DC01', 'SJ01']"
+Jiahao,42981617542,6,4,['CC05'],"['CC06', 'DC01', 'SJ07']","['CC05', 'CC06', 'DC01', 'SJ07']"
+Jiahao,42681494957,6,bundle_index = 2 does not exist,[],[],[]
+Jiahao,42468840454,6,26,"['CC02', 'FW20', 'JZ03', 'MO01', 'ND03', 'QT04', 'XB04', 'ZG01', 'BU01', 'CC01', 'FW18', 'JB01', 'JD01', 'MO02', 'PZ01', 'QC02', 'RG02', 'SJ28', 'UV01']","['CC38', 'SJ01', 'DC01', 'MO07', 'ZG03', 'RG01', 'QT01']","['CC02', 'FW20', 'JZ03', 'MO01', 'ND03', 'QT04', 'XB04', 'ZG01', 'BU01', 'CC01', 'FW18', 'JB01', 'JD01', 'MO02', 'PZ01', 'QC02', 'RG02', 'SJ28', 'UV01', 'CC38', 'SJ01', 'DC01', 'MO07', 'ZG03', 'RG01', 'QT01']"
+Jiahao,41802068265,6,19,"['CC24', 'FW11', 'MO06', 'PZ08', 'QT04', 'QT07', 'UV20', 'XB06', 'XN01', 'YK01']","['BU01', 'CC33', 'JB01', 'JD01', 'MO02', 'PZ01', 'QC02', 'UV01', 'XB07']","['CC24', 'FW11', 'MO06', 'PZ08', 'QT04', 'QT07', 'UV20', 'XB06', 'XN01', 'YK01', 'BU01', 'CC33', 'JB01', 'JD01', 'MO02', 'PZ01', 'QC02', 'UV01', 'XB07']"
+Jiahao,41599133465,6,bundle_index = 1 does not exist,[],[],[]
+Jiahao,41583985792,6,bundle_index = 1 does not exist,[],[],[]
+Jiahao,40565901878,6,bundle_index = 1 does not exist,[],[],[]
+Jiahao,40452911197,6,22,"['CC24', 'MO02', 'SJ01', 'UV12', 'XB07']","['MO06', 'PZ08', 'QT04', 'QT07', 'RG02', 'SJ07', 'SP02', 'UV20', 'WD01', 'XB06', 'XN01', 'YK01', 'ZG01', 'QT02', 'CC21', 'DC21', 'JB01']","['CC24', 'MO02', 'SJ01', 'UV12', 'XB07', 'MO06', 'PZ08', 'QT04', 'QT07', 'RG02', 'SJ07', 'SP02', 'UV20', 'WD01', 'XB06', 'XN01', 'YK01', 'ZG01', 'QT02', 'CC21', 'DC21', 'JB01']"
+Jiahao,40175359932,6,29,"['JZ01', 'MO06', 'ZG01', 'SP01', 'FD01', 'BU01', 'UV01', 'MO04', 'DK01', 'MO01', 'SP02', 'QT04', 'RG01', 'YK01', 'FW07', 'JC04', 'CC02', 'FD05', 'MO09', 'ND01', 'UV20', 'XB35', 'XN07', 'YK13']","['MO02', 'QC02', 'QT19', 'SJ01', 'UV12']","['JZ01', 'MO06', 'ZG01', 'SP01', 'FD01', 'BU01', 'UV01', 'MO04', 'DK01', 'MO01', 'SP02', 'QT04', 'RG01', 'YK01', 'FW07', 'JC04', 'CC02', 'FD05', 'MO09', 'ND01', 'UV20', 'XB35', 'XN07', 'YK13', 'MO02', 'QC02', 'QT19', 'SJ01', 'UV12']"
+Jiahao,40148868087,6,19,"['MO01', 'ND01', 'FD05', 'SP02', 'JZ02', 'DK12', 'RG02', 'FD01', 'FW15', 'CC38', 'XB06', 'ZG07']","['CC02', 'DC01', 'GJ04', 'SJ28', 'XB07', 'XN01', 'ZG01']","['MO01', 'ND01', 'FD05', 'SP02', 'JZ02', 'DK12', 'RG02', 'FD01', 'FW15', 'CC38', 'XB06', 'ZG07', 'CC02', 'DC01', 'GJ04', 'SJ28', 'XB07', 'XN01', 'ZG01']"
+Jiahao,40112687054,6,bundle_index = 1 does not exist,[],[],[]
+Jiahao,39237426326,6,bundle_index = 1 does not exist,[],[],[]
+Jiahao,38708270318,6,22,"['BU01', 'CC24', 'DK01', 'DZ01', 'QC02', 'SP01', 'MO15', 'UV36', 'XB35', 'YD01', 'YK01']","['DK12', 'RG02', 'FW15', 'CC38', 'XB06', 'UV20', 'MO09', 'YK02', 'SJ02', 'DC01', 'XN01']","['BU01', 'CC24', 'DK01', 'DZ01', 'QC02', 'SP01', 'MO15', 'UV36', 'XB35', 'YD01', 'YK01', 'DK12', 'RG02', 'FW15', 'CC38', 'XB06', 'UV20', 'MO09', 'YK02', 'SJ02', 'DC01', 'XN01']"
+Jiahao,38663832002,6,9,"['CC21', 'MO03']","['CC18', 'DC09', 'FH02', 'JB01', 'PZ07', 'YK05', 'ZG09']","['CC21', 'MO03', 'CC18', 'DC09', 'FH02', 'JB01', 'PZ07', 'YK05', 'ZG09']"
+Jiahao,38631814095,6,bundle_index = 2 does not exist,[],[],[]
+Jiahao,37994506504,6,bundle_index = 1 does not exist,[],[],[]
+Jiahao,37908516066,6,bundle_index = 1 does not exist,[],[],[]
+Jiahao,37870465778,6,bundle_index = 1 does not exist,[],[],[]
+Jiahao,37745552927,6,bundle_index = 1 does not exist,[],[],[]
+Jiahao,37443266749,6,bundle_index = 2 does not exist,[],[],[]
+Jiahao,37241107923,6,bundle_index = 2 does not exist,[],[],[]
+Jiahao,36982442137,6,18,"['SJ01', 'XB65']","['CC06', 'DC13', 'DK05', 'FD01', 'FD05', 'FH01', 'GJ04', 'JC08', 'MO02', 'ND01', 'QT04', 'RG01', 'SJ02', 'WD05', 'XB05', 'XN01']","['SJ01', 'XB65', 'CC06', 'DC13', 'DK05', 'FD01', 'FD05', 'FH01', 'GJ04', 'JC08', 'MO02', 'ND01', 'QT04', 'RG01', 'SJ02', 'WD05', 'XB05', 'XN01']"
+Jiahao,36910165248,6,bundle_index = 2 does not exist,[],[],[]
+Jiahao,36613205733,6,20,"['CC24', 'DK14', 'QT07', 'MO06', 'UV01', 'ZG03', 'QC02', 'JB01', 'SJ02', 'JZ02']","['CC06', 'DC02', 'DK01', 'DZ02', 'SJ01', 'QT14', 'RG02', 'MO04', 'UV03', 'ZG21']","['CC24', 'DK14', 'QT07', 'MO06', 'UV01', 'ZG03', 'QC02', 'JB01', 'SJ02', 'JZ02', 'CC06', 'DC02', 'DK01', 'DZ02', 'SJ01', 'QT14', 'RG02', 'MO04', 'UV03', 'ZG21']"
+Jiahao,36574928690,6,bundle_index = 1 does not exist,[],[],[]
+Jiahao,36513357018,6,bundle_index = 2 does not exist,[],[],[]
+Jiahao,35674260254,6,bundle_index = 2 does not exist,[],[],[]
+Jiahao,35557065616,6,bundle_index = 1 does not exist,[],[],[]
+Jiahao,35540978058,6,bundle_index = 1 does not exist,[],[],[]
+Jiahao,27462844289,6,bundle_index = 2 does not exist,[],[],[]
+Jiahao,26519380192,6,bundle_index = 2 does not exist,[],[],[]
+Jiahao,25673844634,6,bundle_index = 1 does not exist,[],[],[]
+Jiahao,24596036343,6,bundle_index = 2 does not exist,[],[],[]
+Jiahao,24319152517,6,bundle_index = 2 does not exist,[],[],[]
+Jiahao,24291960195,6,bundle_index = 2 does not exist,[],[],[]
+Jiahao,23969324559,6,23,"['BU01', 'CC06', 'FD07', 'FH04', 'FW06', 'FW07', 'ND01', 'QT04', 'SP01', 'UV20', 'WJ01', 'XN01', 'XN07', 'YD02', 'YK13']","['CC40', 'DC01', 'FP01', 'FW15', 'QT14', 'SP02', 'UV60', 'YK01']","['BU01', 'CC06', 'FD07', 'FH04', 'FW06', 'FW07', 'ND01', 'QT04', 'SP01', 'UV20', 'WJ01', 'XN01', 'XN07', 'YD02', 'YK13', 'CC40', 'DC01', 'FP01', 'FW15', 'QT14', 'SP02', 'UV60', 'YK01']"
+Jiahao,23924620234,6,bundle_index = 1 does not exist,[],[],[]
+Jiahao,23896264169,6,6,"['CC01', 'BU01', 'SJ01']","['CC33', 'DC04', 'SJ07']","['CC01', 'BU01', 'SJ01', 'CC33', 'DC04', 'SJ07']"
+Jiahao,20728727154,6,20,"['CC01', 'XN01', 'QT07', 'UV01', 'YK01', 'FD01', 'ND01', 'WD01', 'QC02', 'JB01', 'RG01', 'FW15', 'SJ02', 'ZG03', 'SP02', 'JZ02', 'JC04']","['BU01', 'CC02', 'DC01']","['CC01', 'XN01', 'QT07', 'UV01', 'YK01', 'FD01', 'ND01', 'WD01', 'QC02', 'JB01', 'RG01', 'FW15', 'SJ02', 'ZG03', 'SP02', 'JZ02', 'JC04', 'BU01', 'CC02', 'DC01']"
+Jiahao,20373091017,6,bundle_index = 1 does not exist,[],[],[]
+Jiahao,20186366493,6,17,"['CC06', 'CC05', 'XB35', 'UV12', 'JZ02', 'BU01', 'XN04', 'ZG01', 'FD05', 'FD01', 'SP02', 'QT01', 'SJ28', 'JC05']","['CC08', 'DC01', 'UV01']","['CC06', 'CC05', 'XB35', 'UV12', 'JZ02', 'BU01', 'XN04', 'ZG01', 'FD05', 'FD01', 'SP02', 'QT01', 'SJ28', 'JC05', 'CC08', 'DC01', 'UV01']"
+Jiahao,20167630571,6,bundle_index = 1 does not exist,[],[],[]
+Jiahao,19999809846,6,15,"['CC01', 'DK14', 'JB01', 'JZ02', 'MO02', 'QC02', 'QT07', 'RG01', 'SJ28', 'XB21', 'XN01', 'ZG01']","['CC06', 'DC21', 'SJ01']","['CC01', 'DK14', 'JB01', 'JZ02', 'MO02', 'QC02', 'QT07', 'RG01', 'SJ28', 'XB21', 'XN01', 'ZG01', 'CC06', 'DC21', 'SJ01']"
+Jiahao,18999829018,6,bundle_index = 1 does not exist,[],[],[]
+Jiahao,18820622609,6,bundle_index = 2 does not exist,[],[],[]
+Jiahao,18352298789,6,bundle_index = 2 does not exist,[],[],[]
+Jiahao,18053093587,6,14,[],"['BU04', 'CC08,CC40,CC46,CC47', 'DC01', 'DK01', 'FD01', 'FP01', 'FW06', 'FW07', 'JZ01', 'MO09', 'ND01', 'QT01', 'UV02', 'WD01']","['BU04', 'CC08,CC40,CC46,CC47', 'DC01', 'DK01', 'FD01', 'FP01', 'FW06', 'FW07', 'JZ01', 'MO09', 'ND01', 'QT01', 'UV02', 'WD01']"
+Jiahao,16831203027,6,27,"['CC02', 'JZ01', 'FD05', 'BU04', 'MO16', 'FH03', 'SJ23', 'QC02', 'FW15', 'FW16', 'CC05', 'XB35', 'MO15', 'ZG18', 'UV12']","['CC33', 'XN01', 'YK01', 'XB60', 'ND01', 'XB61', 'XB03', 'WJ01', 'XN07', 'DC02', 'RG03', 'PZ01']","['CC02', 'JZ01', 'FD05', 'BU04', 'MO16', 'FH03', 'SJ23', 'QC02', 'FW15', 'FW16', 'CC05', 'XB35', 'MO15', 'ZG18', 'UV12', 'CC33', 'XN01', 'YK01', 'XB60', 'ND01', 'XB61', 'XB03', 'WJ01', 'XN07', 'DC02', 'RG03', 'PZ01']"
+Jiahao,5.23084E+11,7,23,"['CC06', 'UV48', 'XB35', 'CC16', 'DK01', 'MO01', 'UV12']","['SJ02', 'SP02', 'UV01', 'WD01', 'WJ01', 'XN01', 'YK01', 'ZG01', 'CC08', 'UV30', 'XB09', 'ZG07', 'FW03', 'DC02', 'YK04', 'SJ25']","['CC06', 'UV48', 'XB35', 'CC16', 'DK01', 'MO01', 'UV12', 'SJ02', 'SP02', 'UV01', 'WD01', 'WJ01', 'XN01', 'YK01', 'ZG01', 'CC08', 'UV30', 'XB09', 'ZG07', 'FW03', 'DC02', 'YK04', 'SJ25']"
+Jiahao,5.21514E+11,7,32,"['CC05', 'DK07', 'FW11', 'FW19', 'JC04', 'JD02', 'MO05', 'SP02', 'UV01', 'WJ01', 'XB07', 'ZG01', 'BD04', 'JZ05', 'ND01', 'QT04', 'RG01', 'MO17', 'WD01', 'XN01']","['CC08', 'DC02', 'DK17', 'FW17', 'JZ01', 'MO10', 'QT13', 'SJ08', 'UV43', 'WD05', 'XB62', 'YK02']","['CC05', 'DK07', 'FW11', 'FW19', 'JC04', 'JD02', 'MO05', 'SP02', 'UV01', 'WJ01', 'XB07', 'ZG01', 'BD04', 'JZ05', 'ND01', 'QT04', 'RG01', 'MO17', 'WD01', 'XN01', 'CC08', 'DC02', 'DK17', 'FW17', 'JZ01', 'MO10', 'QT13', 'SJ08', 'UV43', 'WD05', 'XB62', 'YK02']"
+Jiahao,5.23777E+11,7,bundle_index = 1 does not exist,[],[],[]
+Jiahao,5.22864E+11,7,16,"['CC07', 'JZ02', 'MO04', 'MO10', 'QC02', 'UV38', 'XB06']","['CC13', 'DC13', 'MO01', 'QT15', 'SJ16', 'UV12', 'XB07', 'YK05', 'ZG18']","['CC07', 'JZ02', 'MO04', 'MO10', 'QC02', 'UV38', 'XB06', 'CC13', 'DC13', 'MO01', 'QT15', 'SJ16', 'UV12', 'XB07', 'YK05', 'ZG18']"
+Jiahao,5.22744E+11,7,26,"['CC38', 'CC06', 'DK09', 'FD01', 'FD05', 'MO09', 'FW15', 'FW07', 'JC06', 'JC08', 'JZ01', 'LP01', 'MO05', 'ND01', 'QT07', 'QT17', 'RG01', 'UV01', 'WD01', 'XB35', 'YK02', 'ZG01']","['CC39', 'DC20', 'SJ33', 'XN19']","['CC38', 'CC06', 'DK09', 'FD01', 'FD05', 'MO09', 'FW15', 'FW07', 'JC06', 'JC08', 'JZ01', 'LP01', 'MO05', 'ND01', 'QT07', 'QT17', 'RG01', 'UV01', 'WD01', 'XB35', 'YK02', 'ZG01', 'CC39', 'DC20', 'SJ33', 'XN19']"
+Jiahao,5.22145E+11,7,bundle_index = 1 does not exist,[],[],[]
+Jiahao,5.22098E+11,7,bundle_index = 2 does not exist,[],[],[]
+Jiahao,5.22086E+11,7,bundle_index = 1 does not exist,[],[],[]
+Jiahao,5.22034E+11,7,30,"['CC25', 'DC19', 'DK13', 'MO12', 'QT10', 'UV59', 'YK10', 'CC17', 'UV53', 'XB52', 'YK05']","['CC02', 'DC01', 'DK06', 'FW01', 'FW08', 'JP04', 'MO06', 'ND01', 'QT04', 'SJ01', 'SP01', 'UV01', 'XN07', 'YK01', 'ZG03', 'CC43', 'SJ15', 'UV52', 'XB56']","['CC25', 'DC19', 'DK13', 'MO12', 'QT10', 'UV59', 'YK10', 'CC17', 'UV53', 'XB52', 'YK05', 'CC02', 'DC01', 'DK06', 'FW01', 'FW08', 'JP04', 'MO06', 'ND01', 'QT04', 'SJ01', 'SP01', 'UV01', 'XN07', 'YK01', 'ZG03', 'CC43', 'SJ15', 'UV52', 'XB56']"
+Jiahao,5.2187E+11,7,bundle_index = 2 does not exist,[],[],[]
+Jiahao,45410114111,7,bundle_index = 2 does not exist,[],[],[]
+Jiahao,45293052304,7,22,"['CC05', 'MO11', 'XB35']","['BU01', 'CC18', 'DC02', 'DZ01', 'FD01', 'GJ03', 'JB01', 'ND03', 'QC02', 'RG03', 'SP01', 'MO15', 'UV54', 'WD04', 'XB06', 'XN01', 'YD01', 'YK01', 'ZG07']","['CC05', 'MO11', 'XB35', 'BU01', 'CC18', 'DC02', 'DZ01', 'FD01', 'GJ03', 'JB01', 'ND03', 'QC02', 'RG03', 'SP01', 'MO15', 'UV54', 'WD04', 'XB06', 'XN01', 'YD01', 'YK01', 'ZG07']"
+Jiahao,45219159638,7,22,"['CC06', 'DK09', 'MO12', 'UV16', 'XB05', 'CC21', 'XB18', 'UV36', 'MO03', 'DK12', 'MO04', 'SP03', 'BU05', 'FD01', 'QT01']","['CC30', 'DC02', 'DK01', 'MO11', 'UV54', 'XB63', 'ZG01']","['CC06', 'DK09', 'MO12', 'UV16', 'XB05', 'CC21', 'XB18', 'UV36', 'MO03', 'DK12', 'MO04', 'SP03', 'BU05', 'FD01', 'QT01', 'CC30', 'DC02', 'DK01', 'MO11', 'UV54', 'XB63', 'ZG01']"
+Jiahao,44881048637,7,bundle_index = 1 does not exist,[],[],[]
+Jiahao,44799642380,7,bundle_index = 2 does not exist,[],[],[]
+Jiahao,44331296085,7,bundle_index = 1 does not exist,[],[],[]
+Jiahao,44231886556,7,19,"['BU04', 'CC06', 'DK05', 'FD01', 'FP01', 'JZ01', 'MO06', 'UV04', 'WD01', 'XB05', 'YK02', 'ZG03']","['DK17', 'MO10', 'ZG07', 'YK01', 'DC02', 'QT04', 'SJ21']","['BU04', 'CC06', 'DK05', 'FD01', 'FP01', 'JZ01', 'MO06', 'UV04', 'WD01', 'XB05', 'YK02', 'ZG03', 'DK17', 'MO10', 'ZG07', 'YK01', 'DC02', 'QT04', 'SJ21']"
+Jiahao,44069100271,7,bundle_index = 2 does not exist,[],[],[]
+Jiahao,44021641588,7,14,['XB21'],"['BU01', 'CC08', 'DC01', 'DK06', 'FD01', 'JB01', 'JZ01', 'MO02', 'QC02', 'UV12', 'XB60', 'YK01', 'ZG01']","['XB21', 'BU01', 'CC08', 'DC01', 'DK06', 'FD01', 'JB01', 'JZ01', 'MO02', 'QC02', 'UV12', 'XB60', 'YK01', 'ZG01']"
+Jiahao,43859660891,7,bundle_index = 2 does not exist,[],[],[]
+Jiahao,43853759026,7,bundle_index = 2 does not exist,[],[],[]
+Jiahao,43736454825,7,36,"['BU04', 'CC06', 'CC19', 'DK05', 'DK08', 'MO02', 'RG02', 'UV34', 'UV61', 'WD01', 'XB06', 'XB35', 'QT01', 'MO01', 'XB07']","['CC04', 'DC08', 'FW07', 'FW01', 'ND01', 'RG01', 'UV01', 'WJ01', 'XB68', 'XN01', 'XN04', 'XN07', 'ZG01', 'CC07', 'DC02', 'DK01', 'FW02', 'SJ01', 'UV63', 'XB09', 'YK04']","['BU04', 'CC06', 'CC19', 'DK05', 'DK08', 'MO02', 'RG02', 'UV34', 'UV61', 'WD01', 'XB06', 'XB35', 'QT01', 'MO01', 'XB07', 'CC04', 'DC08', 'FW07', 'FW01', 'ND01', 'RG01', 'UV01', 'WJ01', 'XB68', 'XN01', 'XN04', 'XN07', 'ZG01', 'CC07', 'DC02', 'DK01', 'FW02', 'SJ01', 'UV63', 'XB09', 'YK04']"
+Jiahao,43473279886,7,bundle_index = 2 does not exist,[],[],[]
+Jiahao,43452978184,7,bundle_index = 2 does not exist,[],[],[]
+Jiahao,43426870825,7,bundle_index = 1 does not exist,[],[],[]
+Jiahao,43168072227,7,19,"['CC02', 'DK06', 'MO02', 'QT04', 'ZG01', 'CC19', 'MO01', 'CC05', 'CC07', 'DC15', 'QT14', 'SP03', 'UV45', 'XB04', 'XN01', 'YK05']","['CC45', 'DC01', 'SJ01']","['CC02', 'DK06', 'MO02', 'QT04', 'ZG01', 'CC19', 'MO01', 'CC05', 'CC07', 'DC15', 'QT14', 'SP03', 'UV45', 'XB04', 'XN01', 'YK05', 'CC45', 'DC01', 'SJ01']"
+Jiahao,42981617542,7,bundle_index = 2 does not exist,[],[],[]
+Jiahao,42681494957,7,7,['CC05'],"['CC07', 'DC01', 'FP01', 'FW07', 'FW09', 'SJ07']","['CC05', 'CC07', 'DC01', 'FP01', 'FW07', 'FW09', 'SJ07']"
+Jiahao,42468840454,7,26,"['CC02', 'FW20', 'JZ03', 'MO01', 'ND03', 'QT04', 'XB04', 'ZG01', 'BU01', 'CC01', 'FW18', 'JB01', 'JD01', 'MO02', 'PZ01', 'QC02', 'RG02', 'SJ28', 'UV01']","['CC39', 'SJ01', 'DC01', 'MO07', 'ZG03', 'RG01', 'QT01']","['CC02', 'FW20', 'JZ03', 'MO01', 'ND03', 'QT04', 'XB04', 'ZG01', 'BU01', 'CC01', 'FW18', 'JB01', 'JD01', 'MO02', 'PZ01', 'QC02', 'RG02', 'SJ28', 'UV01', 'CC39', 'SJ01', 'DC01', 'MO07', 'ZG03', 'RG01', 'QT01']"
+Jiahao,41802068265,7,19,"['CC24', 'FW11', 'MO06', 'PZ08', 'QT04', 'QT07', 'UV20', 'XB06', 'XN01', 'YK01']","['BU01', 'CC04', 'JB01', 'JD01', 'MO02', 'PZ01', 'QC02', 'UV01', 'XB07']","['CC24', 'FW11', 'MO06', 'PZ08', 'QT04', 'QT07', 'UV20', 'XB06', 'XN01', 'YK01', 'BU01', 'CC04', 'JB01', 'JD01', 'MO02', 'PZ01', 'QC02', 'UV01', 'XB07']"
+Jiahao,41599133465,7,bundle_index = 1 does not exist,[],[],[]
+Jiahao,41583985792,7,bundle_index = 1 does not exist,[],[],[]
+Jiahao,40565901878,7,bundle_index = 1 does not exist,[],[],[]
+Jiahao,40452911197,7,27,"['JZ05', 'CC24', 'DK15', 'FW07', 'MO02', 'SJ01', 'UV12', 'XB07']","['CC08', 'DC01', 'DK01', 'FD01', 'FW11', 'FW18', 'MO06', 'PZ08', 'QT04', 'QT07', 'RG02', 'SJ07', 'SP02', 'UV20', 'WD01', 'XB06', 'XN01', 'YK01', 'ZG01']","['JZ05', 'CC24', 'DK15', 'FW07', 'MO02', 'SJ01', 'UV12', 'XB07', 'CC08', 'DC01', 'DK01', 'FD01', 'FW11', 'FW18', 'MO06', 'PZ08', 'QT04', 'QT07', 'RG02', 'SJ07', 'SP02', 'UV20', 'WD01', 'XB06', 'XN01', 'YK01', 'ZG01']"
+Jiahao,40175359932,7,34,"['JZ01', 'MO06', 'ZG01', 'SP01', 'FD01', 'BU01', 'UV01', 'MO04', 'DK01', 'MO01', 'SP02', 'QT04', 'RG01', 'YK01', 'JC04', 'CC02', 'FD05', 'MO09', 'ND01', 'UV20', 'XB35', 'XN07', 'YK13']","['QT02', 'JZ05', 'CC22', 'DC21', 'DK15', 'JB01', 'MO02', 'QC02', 'QT19', 'SJ01', 'UV12']","['JZ01', 'MO06', 'ZG01', 'SP01', 'FD01', 'BU01', 'UV01', 'MO04', 'DK01', 'MO01', 'SP02', 'QT04', 'RG01', 'YK01', 'JC04', 'CC02', 'FD05', 'MO09', 'ND01', 'UV20', 'XB35', 'XN07', 'YK13', 'QT02', 'JZ05', 'CC22', 'DC21', 'DK15', 'JB01', 'MO02', 'QC02', 'QT19', 'SJ01', 'UV12']"
+Jiahao,40148868087,7,23,"['SP02', 'JZ02', 'DK12', 'RG02', 'FW15', 'CC38', 'XB06', 'ZG07']","['CC04', 'CC33', 'DC01', 'DK01', 'MO09', 'GJ04', 'JQ02', 'RG01', 'SJ28', 'SP01', 'XB64', 'XN01', 'XN07', 'YK13', 'ZG01']","['SP02', 'JZ02', 'DK12', 'RG02', 'FW15', 'CC38', 'XB06', 'ZG07', 'CC04', 'CC33', 'DC01', 'DK01', 'MO09', 'GJ04', 'JQ02', 'RG01', 'SJ28', 'SP01', 'XB64', 'XN01', 'XN07', 'YK13', 'ZG01']"
+Jiahao,40112687054,7,bundle_index = 1 does not exist,[],[],[]
+Jiahao,39237426326,7,bundle_index = 1 does not exist,[],[],[]
+Jiahao,38708270318,7,30,"['BU01', 'CC24', 'DK01', 'DZ01', 'QC02', 'SP01', 'MO15', 'UV36', 'XB35', 'YD01', 'YK01']","['QT04', 'MO01', 'WD01', 'ND01', 'FD05', 'SP02', 'JZ02', 'DK12', 'RG02', 'FW15', 'CC07', 'XB06', 'UV20', 'MO09', 'YK02', 'SJ02', 'DC01', 'XN01', 'GJ04']","['BU01', 'CC24', 'DK01', 'DZ01', 'QC02', 'SP01', 'MO15', 'UV36', 'XB35', 'YD01', 'YK01', 'QT04', 'MO01', 'WD01', 'ND01', 'FD05', 'SP02', 'JZ02', 'DK12', 'RG02', 'FW15', 'CC07', 'XB06', 'UV20', 'MO09', 'YK02', 'SJ02', 'DC01', 'XN01', 'GJ04']"
+Jiahao,38663832002,7,8,['CC21'],"['CC22', 'DC08', 'JB01', 'PZ07', 'SJ16', 'XN06', 'ZG09']","['CC21', 'CC22', 'DC08', 'JB01', 'PZ07', 'SJ16', 'XN06', 'ZG09']"
+Jiahao,38631814095,7,bundle_index = 2 does not exist,[],[],[]
+Jiahao,37994506504,7,bundle_index = 1 does not exist,[],[],[]
+Jiahao,37908516066,7,bundle_index = 1 does not exist,[],[],[]
+Jiahao,37870465778,7,bundle_index = 1 does not exist,[],[],[]
+Jiahao,37745552927,7,bundle_index = 1 does not exist,[],[],[]
+Jiahao,37443266749,7,bundle_index = 2 does not exist,[],[],[]
+Jiahao,37241107923,7,bundle_index = 2 does not exist,[],[],[]
+Jiahao,36982442137,7,19,"['SJ01', 'UV20', 'XB65', 'XN06', 'YK01', 'ZG01']","['CC07', 'DC13', 'DK05', 'FD01', 'FD05', 'FH01', 'GJ04', 'JC08', 'MO02', 'ND01', 'QT04', 'RG01', 'SJ02']","['SJ01', 'UV20', 'XB65', 'XN06', 'YK01', 'ZG01', 'CC07', 'DC13', 'DK05', 'FD01', 'FD05', 'FH01', 'GJ04', 'JC08', 'MO02', 'ND01', 'QT04', 'RG01', 'SJ02']"
+Jiahao,36910165248,7,17,"['CC06', 'DK01', 'DZ02', 'FD01', 'ND01', 'QT14', 'RG02', 'MO04', 'UV03', 'WD01', 'XB07', 'ZG21']","['UV20', 'WD05', 'XB05', 'XN06', 'ZG01']","['CC06', 'DK01', 'DZ02', 'FD01', 'ND01', 'QT14', 'RG02', 'MO04', 'UV03', 'WD01', 'XB07', 'ZG21', 'UV20', 'WD05', 'XB05', 'XN06', 'ZG01']"
+Jiahao,36613205733,7,20,"['CC24', 'DK14', 'QT07', 'MO06', 'UV01', 'ZG03', 'QC02', 'JB01', 'SJ02', 'JZ02']","['CC07', 'DC02', 'DK01', 'DZ02', 'SJ01', 'QT14', 'RG02', 'MO04', 'UV03', 'ZG21']","['CC24', 'DK14', 'QT07', 'MO06', 'UV01', 'ZG03', 'QC02', 'JB01', 'SJ02', 'JZ02', 'CC07', 'DC02', 'DK01', 'DZ02', 'SJ01', 'QT14', 'RG02', 'MO04', 'UV03', 'ZG21']"
+Jiahao,36574928690,7,bundle_index = 1 does not exist,[],[],[]
+Jiahao,36513357018,7,15,"['DC01', 'XB07', 'MO08', 'DK01', 'BU01', 'SJ28', 'JZ03', 'SP01', 'ZG01', 'GJ01']","['ZG03', 'WD01', 'SJ02', 'ND01', 'JZ02']","['DC01', 'XB07', 'MO08', 'DK01', 'BU01', 'SJ28', 'JZ03', 'SP01', 'ZG01', 'GJ01', 'ZG03', 'WD01', 'SJ02', 'ND01', 'JZ02']"
+Jiahao,35674260254,7,bundle_index = 2 does not exist,[],[],[]
+Jiahao,35557065616,7,bundle_index = 1 does not exist,[],[],[]
+Jiahao,35540978058,7,bundle_index = 1 does not exist,[],[],[]
+Jiahao,27462844289,7,14,"['BU01', 'CC02', 'DK06', 'FW07', 'FW13', 'FW20', 'JC01', 'MO02', 'QC02', 'WD01', 'XB07', 'ZG01']","['YK01', 'ZG07']","['BU01', 'CC02', 'DK06', 'FW07', 'FW13', 'FW20', 'JC01', 'MO02', 'QC02', 'WD01', 'XB07', 'ZG01', 'YK01', 'ZG07']"
+Jiahao,26519380192,7,bundle_index = 2 does not exist,[],[],[]
+Jiahao,25673844634,7,bundle_index = 1 does not exist,[],[],[]
+Jiahao,24596036343,7,bundle_index = 2 does not exist,[],[],[]
+Jiahao,24319152517,7,bundle_index = 2 does not exist,[],[],[]
+Jiahao,24291960195,7,bundle_index = 2 does not exist,[],[],[]
+Jiahao,23969324559,7,bundle_index = 2 does not exist,[],[],[]
+Jiahao,23924620234,7,bundle_index = 1 does not exist,[],[],[]
+Jiahao,23896264169,7,13,"['CC01', 'DK01', 'XB07', 'UV01', 'ZG01', 'SP01', 'FD01', 'BU01', 'MO06', 'SJ01']","['RG03', 'ND01', 'PZ01']","['CC01', 'DK01', 'XB07', 'UV01', 'ZG01', 'SP01', 'FD01', 'BU01', 'MO06', 'SJ01', 'RG03', 'ND01', 'PZ01']"
+Jiahao,20728727154,7,bundle_index = 2 does not exist,[],[],[]
+Jiahao,20373091017,7,bundle_index = 1 does not exist,[],[],[]
+Jiahao,20186366493,7,29,"['CC06', 'DK01', 'FW07', 'MO02', 'QT04', 'XB07', 'CC05', 'XB35', 'UV12', 'BU01', 'XN04', 'ZG01', 'FD05', 'QT01', 'SJ28', 'JC05']","['MO06', 'UV01', 'YK01', 'ND01', 'WD01', 'QC02', 'JB01', 'RG01', 'FW15', 'BJ01', 'PZ01', 'SJ03', 'ZG03']","['CC06', 'DK01', 'FW07', 'MO02', 'QT04', 'XB07', 'CC05', 'XB35', 'UV12', 'BU01', 'XN04', 'ZG01', 'FD05', 'QT01', 'SJ28', 'JC05', 'MO06', 'UV01', 'YK01', 'ND01', 'WD01', 'QC02', 'JB01', 'RG01', 'FW15', 'BJ01', 'PZ01', 'SJ03', 'ZG03']"
+Jiahao,20167630571,7,bundle_index = 1 does not exist,[],[],[]
+Jiahao,19999809846,7,15,"['CC01', 'DK14', 'JB01', 'JZ02', 'MO02', 'QC02', 'QT07', 'RG01', 'SJ28', 'XB21', 'XN01', 'ZG01']","['CC07', 'DC01', 'SJ01']","['CC01', 'DK14', 'JB01', 'JZ02', 'MO02', 'QC02', 'QT07', 'RG01', 'SJ28', 'XB21', 'XN01', 'ZG01', 'CC07', 'DC01', 'SJ01']"
+Jiahao,18999829018,7,bundle_index = 1 does not exist,[],[],[]
+Jiahao,18820622609,7,bundle_index = 2 does not exist,[],[],[]
+Jiahao,18352298789,7,bundle_index = 2 does not exist,[],[],[]
+Jiahao,18053093587,7,4,"['XB06', 'YK01']","['BU04', 'CC07']","['XB06', 'YK01', 'BU04', 'CC07']"
+Jiahao,16831203027,7,38,"['CC02', 'FD05', 'BU04', 'MO16', 'FH03', 'SJ23', 'QC02', 'FW15', 'FW16', 'CC05', 'XB35', 'MO15', 'ZG18', 'UV12', 'SP02', 'JB01', 'DK09']","['DC01', 'DK01', 'FP01', 'FW06', 'FW07', 'MO09', 'ND01', 'PZ02', 'QT01', 'SJ03', 'UV02', 'WD01', 'XB06', 'YK01', 'CC04', 'XN01', 'XB60', 'XB61', 'XB03', 'WJ01', 'XN07']","['CC02', 'FD05', 'BU04', 'MO16', 'FH03', 'SJ23', 'QC02', 'FW15', 'FW16', 'CC05', 'XB35', 'MO15', 'ZG18', 'UV12', 'SP02', 'JB01', 'DK09', 'DC01', 'DK01', 'FP01', 'FW06', 'FW07', 'MO09', 'ND01', 'PZ02', 'QT01', 'SJ03', 'UV02', 'WD01', 'XB06', 'YK01', 'CC04', 'XN01', 'XB60', 'XB61', 'XB03', 'WJ01', 'XN07']"
+Jiahao,5.23084E+11,8,31,"['CC06', 'MO06', 'QC02', 'JZ02', 'UV48', 'XB35', 'DK05', 'CC16', 'DK01', 'MO01', 'UV12']","['CC08', 'GJ02', 'DC02', 'DK07', 'FW11', 'FW19', 'JC04', 'JD02', 'MO05', 'ND01', 'PZ06', 'QT04', 'SJ02', 'SP02', 'UV01', 'WD01', 'WJ01', 'XN01', 'YK01', 'ZG01']","['CC06', 'MO06', 'QC02', 'JZ02', 'UV48', 'XB35', 'DK05', 'CC16', 'DK01', 'MO01', 'UV12', 'CC08', 'GJ02', 'DC02', 'DK07', 'FW11', 'FW19', 'JC04', 'JD02', 'MO05', 'ND01', 'PZ06', 'QT04', 'SJ02', 'SP02', 'UV01', 'WD01', 'WJ01', 'XN01', 'YK01', 'ZG01']"
+Jiahao,5.21514E+11,8,32,"['CC05', 'DK07', 'FW11', 'FW19', 'JC04', 'JD02', 'MO05', 'SP02', 'UV01', 'WJ01', 'XB07', 'ZG01', 'BD04', 'JZ05', 'ND01', 'QT04', 'RG01', 'MO17', 'WD01', 'XN01']","['CC47', 'DC02', 'DK17', 'FW17', 'JZ01', 'MO10', 'QT13', 'SJ08', 'UV43', 'WD05', 'XB62', 'YK02']","['CC05', 'DK07', 'FW11', 'FW19', 'JC04', 'JD02', 'MO05', 'SP02', 'UV01', 'WJ01', 'XB07', 'ZG01', 'BD04', 'JZ05', 'ND01', 'QT04', 'RG01', 'MO17', 'WD01', 'XN01', 'CC47', 'DC02', 'DK17', 'FW17', 'JZ01', 'MO10', 'QT13', 'SJ08', 'UV43', 'WD05', 'XB62', 'YK02']"
+Jiahao,5.23777E+11,8,bundle_index = 1 does not exist,[],[],[]
+Jiahao,5.22864E+11,8,17,"['CC07', 'JZ02', 'MO04', 'MO10', 'QC02', 'UV38', 'XB06']","['CC15', 'DC13', 'MO01', 'QT15', 'SJ16', 'UV12', 'PZ06', 'XB07', 'YK05', 'ZG18']","['CC07', 'JZ02', 'MO04', 'MO10', 'QC02', 'UV38', 'XB06', 'CC15', 'DC13', 'MO01', 'QT15', 'SJ16', 'UV12', 'PZ06', 'XB07', 'YK05', 'ZG18']"
+Jiahao,5.22744E+11,8,28,"['CC38', 'XB21', 'CC06', 'DK09', 'FD01', 'FD05', 'MO09', 'FW15', 'FW07', 'JC06', 'JC08', 'JZ01', 'LP01', 'MO05', 'ND01', 'QT07', 'QT17', 'RG01', 'UV01', 'WD01', 'XB35', 'YK02', 'ZG01']","['CC40', 'XB05', 'DC20', 'SJ33', 'XN19']","['CC38', 'XB21', 'CC06', 'DK09', 'FD01', 'FD05', 'MO09', 'FW15', 'FW07', 'JC06', 'JC08', 'JZ01', 'LP01', 'MO05', 'ND01', 'QT07', 'QT17', 'RG01', 'UV01', 'WD01', 'XB35', 'YK02', 'ZG01', 'CC40', 'XB05', 'DC20', 'SJ33', 'XN19']"
+Jiahao,5.22145E+11,8,bundle_index = 1 does not exist,[],[],[]
+Jiahao,5.22098E+11,8,30,"['QT02', 'CC06', 'DK09', 'FD01', 'JB01', 'LJ05', 'MO01', 'QC02', 'XB35', 'YK01', 'CC01', 'DK06', 'FW01', 'FW08', 'JP04', 'MO06', 'ND01', 'QT04', 'SP01', 'XB06', 'XN07', 'ZG03']","['QT07', 'QT17', 'RG01', 'SJ02', 'XB60', 'XN01', 'XN06', 'YK02']","['QT02', 'CC06', 'DK09', 'FD01', 'JB01', 'LJ05', 'MO01', 'QC02', 'XB35', 'YK01', 'CC01', 'DK06', 'FW01', 'FW08', 'JP04', 'MO06', 'ND01', 'QT04', 'SP01', 'XB06', 'XN07', 'ZG03', 'QT07', 'QT17', 'RG01', 'SJ02', 'XB60', 'XN01', 'XN06', 'YK02']"
+Jiahao,5.22086E+11,8,bundle_index = 1 does not exist,[],[],[]
+Jiahao,5.22034E+11,8,34,"['CC25', 'DC19', 'DK13', 'MO12', 'QT10', 'UV59', 'YK10', 'CC17', 'UV53', 'XB52', 'YK05', 'ZG01']","['CC33', 'DC01', 'DK06', 'FW01', 'FW08', 'JP04', 'MO06', 'ND01', 'QT04', 'SJ01', 'SP01', 'UV01', 'XN07', 'YK01', 'ZG03', 'CC43', 'DK16', 'PZ01', 'RG01', 'SJ15', 'UV52', 'XB58']","['CC25', 'DC19', 'DK13', 'MO12', 'QT10', 'UV59', 'YK10', 'CC17', 'UV53', 'XB52', 'YK05', 'ZG01', 'CC33', 'DC01', 'DK06', 'FW01', 'FW08', 'JP04', 'MO06', 'ND01', 'QT04', 'SJ01', 'SP01', 'UV01', 'XN07', 'YK01', 'ZG03', 'CC43', 'DK16', 'PZ01', 'RG01', 'SJ15', 'UV52', 'XB58']"
+Jiahao,5.2187E+11,8,11,"['CC19', 'DK17', 'FD01', 'FW17', 'JZ01', 'MO10', 'QT13', 'UV34', 'XB05']","['YK01', 'ZG01']","['CC19', 'DK17', 'FD01', 'FW17', 'JZ01', 'MO10', 'QT13', 'UV34', 'XB05', 'YK01', 'ZG01']"
+Jiahao,45410114111,8,bundle_index = 2 does not exist,[],[],[]
+Jiahao,45293052304,8,22,"['CC05', 'MO11', 'XB35']","['BU01', 'CC18', 'DC02', 'DZ01', 'FD01', 'GJ03', 'JB01', 'ND03', 'QC02', 'RG03', 'SP01', 'MO15', 'UV54', 'WD04', 'XB06', 'XN01', 'YD01', 'YK01', 'ZG07']","['CC05', 'MO11', 'XB35', 'BU01', 'CC18', 'DC02', 'DZ01', 'FD01', 'GJ03', 'JB01', 'ND03', 'QC02', 'RG03', 'SP01', 'MO15', 'UV54', 'WD04', 'XB06', 'XN01', 'YD01', 'YK01', 'ZG07']"
+Jiahao,45219159638,8,bundle_index = 2 does not exist,[],[],[]
+Jiahao,44881048637,8,bundle_index = 1 does not exist,[],[],[]
+Jiahao,44799642380,8,34,"['BU01', 'CC06', 'DK17', 'FW07', 'JZ03', 'LP02', 'MO01', 'MO02', 'XB07', 'JZ02', 'MO10', 'BU04', 'ND01', 'WD01', 'RG01', 'CC07', 'UV25', 'XB44', 'ZG07', 'YK01']","['CC15', 'XB18', 'UV36', 'FH02', 'MO04', 'SP03', 'BU05', 'QT01', 'DC09', 'ZG09', 'YK05', 'PZ07', 'XN06', 'SJ17']","['BU01', 'CC06', 'DK17', 'FW07', 'JZ03', 'LP02', 'MO01', 'MO02', 'XB07', 'JZ02', 'MO10', 'BU04', 'ND01', 'WD01', 'RG01', 'CC07', 'UV25', 'XB44', 'ZG07', 'YK01', 'CC15', 'XB18', 'UV36', 'FH02', 'MO04', 'SP03', 'BU05', 'QT01', 'DC09', 'ZG09', 'YK05', 'PZ07', 'XN06', 'SJ17']"
+Jiahao,44331296085,8,bundle_index = 1 does not exist,[],[],[]
+Jiahao,44231886556,8,bundle_index = 2 does not exist,[],[],[]
+Jiahao,44069100271,8,bundle_index = 2 does not exist,[],[],[]
+Jiahao,44021641588,8,17,['XB21'],"['BU01', 'CC08', 'DC01', 'DK06', 'FD01', 'JB01', 'JZ01', 'MO02', 'MO09', 'ND01', 'QC02', 'RG02', 'UV12', 'XB60', 'YK01', 'ZG01']","['XB21', 'BU01', 'CC08', 'DC01', 'DK06', 'FD01', 'JB01', 'JZ01', 'MO02', 'MO09', 'ND01', 'QC02', 'RG02', 'UV12', 'XB60', 'YK01', 'ZG01']"
+Jiahao,43859660891,8,bundle_index = 2 does not exist,[],[],[]
+Jiahao,43853759026,8,bundle_index = 2 does not exist,[],[],[]
+Jiahao,43736454825,8,35,"['BU01', 'BU04', 'CC06', 'CC19', 'DK05', 'DK08', 'FD01', 'JZ02', 'MO02', 'MO06', 'QC02', 'RG02', 'UV34', 'UV61', 'WD01', 'XB06', 'XB35', 'QT01', 'MO01', 'XB07']","['CC04', 'DC08', 'FW07', 'FW01', 'GJ01', 'HJ01', 'ND01', 'RG01', 'UV01', 'WJ01', 'XB68', 'XN01', 'XN04', 'XN07', 'ZG01']","['BU01', 'BU04', 'CC06', 'CC19', 'DK05', 'DK08', 'FD01', 'JZ02', 'MO02', 'MO06', 'QC02', 'RG02', 'UV34', 'UV61', 'WD01', 'XB06', 'XB35', 'QT01', 'MO01', 'XB07', 'CC04', 'DC08', 'FW07', 'FW01', 'GJ01', 'HJ01', 'ND01', 'RG01', 'UV01', 'WJ01', 'XB68', 'XN01', 'XN04', 'XN07', 'ZG01']"
+Jiahao,43473279886,8,bundle_index = 2 does not exist,[],[],[]
+Jiahao,43452978184,8,bundle_index = 2 does not exist,[],[],[]
+Jiahao,43426870825,8,bundle_index = 1 does not exist,[],[],[]
+Jiahao,43168072227,8,19,"['CC02', 'DK06', 'MO02', 'QT04', 'ZG01', 'CC19', 'MO01', 'CC05', 'CC07', 'DC15', 'QT14', 'SP03', 'UV45', 'XB04', 'YK05']","['CC46', 'DC01', 'PZ08', 'SJ01']","['CC02', 'DK06', 'MO02', 'QT04', 'ZG01', 'CC19', 'MO01', 'CC05', 'CC07', 'DC15', 'QT14', 'SP03', 'UV45', 'XB04', 'YK05', 'CC46', 'DC01', 'PZ08', 'SJ01']"
+Jiahao,42981617542,8,bundle_index = 2 does not exist,[],[],[]
+Jiahao,42681494957,8,9,['CC05'],"['CC08', 'DC01', 'FP01', 'FW07', 'FW09', 'PZ08', 'SJ07', 'XN01']","['CC05', 'CC08', 'DC01', 'FP01', 'FW07', 'FW09', 'PZ08', 'SJ07', 'XN01']"
+Jiahao,42468840454,8,28,"['CC02', 'FW20', 'JZ03', 'MO01', 'ND03', 'QT04', 'XB04', 'ZG01', 'BU01', 'CC01', 'FW18', 'JB01', 'JD01', 'MO02', 'PZ01', 'QC02', 'RG02', 'SJ28', 'UV01']","['CC40', 'PZ08', 'XN01', 'SJ01', 'DC01', 'MO07', 'ZG03', 'RG01', 'QT01']","['CC02', 'FW20', 'JZ03', 'MO01', 'ND03', 'QT04', 'XB04', 'ZG01', 'BU01', 'CC01', 'FW18', 'JB01', 'JD01', 'MO02', 'PZ01', 'QC02', 'RG02', 'SJ28', 'UV01', 'CC40', 'PZ08', 'XN01', 'SJ01', 'DC01', 'MO07', 'ZG03', 'RG01', 'QT01']"
+Jiahao,41802068265,8,bundle_index = 2 does not exist,[],[],[]
+Jiahao,41599133465,8,bundle_index = 1 does not exist,[],[],[]
+Jiahao,41583985792,8,bundle_index = 1 does not exist,[],[],[]
+Jiahao,40565901878,8,bundle_index = 1 does not exist,[],[],[]
+Jiahao,40452911197,8,bundle_index = 2 does not exist,[],[],[]
+Jiahao,40175359932,8,34,"['JZ01', 'MO06', 'ZG01', 'SP01', 'FD01', 'BU01', 'UV01', 'MO04', 'DK01', 'MO01', 'SP02', 'QT04', 'RG01', 'YK01', 'JC04', 'CC02', 'FD05', 'MO09', 'ND01', 'UV20', 'XB35', 'XN07', 'YK13']","['QT02', 'JZ05', 'CC23', 'DC21', 'DK15', 'JB01', 'MO02', 'QC02', 'QT19', 'SJ01', 'UV12']","['JZ01', 'MO06', 'ZG01', 'SP01', 'FD01', 'BU01', 'UV01', 'MO04', 'DK01', 'MO01', 'SP02', 'QT04', 'RG01', 'YK01', 'JC04', 'CC02', 'FD05', 'MO09', 'ND01', 'UV20', 'XB35', 'XN07', 'YK13', 'QT02', 'JZ05', 'CC23', 'DC21', 'DK15', 'JB01', 'MO02', 'QC02', 'QT19', 'SJ01', 'UV12']"
+Jiahao,40148868087,8,20,"['SP02', 'JZ02', 'DK12', 'RG02', 'FW15', 'CC38', 'XB06', 'ZG07']","['DC01', 'DK01', 'MO09', 'GJ04', 'JQ02', 'RG01', 'SJ28', 'SP01', 'XN01', 'XN07', 'YK13', 'ZG01']","['SP02', 'JZ02', 'DK12', 'RG02', 'FW15', 'CC38', 'XB06', 'ZG07', 'DC01', 'DK01', 'MO09', 'GJ04', 'JQ02', 'RG01', 'SJ28', 'SP01', 'XN01', 'XN07', 'YK13', 'ZG01']"
+Jiahao,40112687054,8,bundle_index = 1 does not exist,[],[],[]
+Jiahao,39237426326,8,bundle_index = 1 does not exist,[],[],[]
+Jiahao,38708270318,8,31,"['BU01', 'CC24', 'DK01', 'DZ01', 'QC02', 'SP01', 'MO15', 'UV36', 'XB35', 'YD01', 'YK01']","['QT04', 'MO01', 'WD01', 'ND01', 'FD05', 'SP02', 'JZ02', 'DK12', 'RG02', 'FW15', 'CC08', 'XB06', 'UV20', 'MO09', 'YK02', 'SJ02', 'DC01', 'XN01', 'GJ04', 'PZ08']","['BU01', 'CC24', 'DK01', 'DZ01', 'QC02', 'SP01', 'MO15', 'UV36', 'XB35', 'YD01', 'YK01', 'QT04', 'MO01', 'WD01', 'ND01', 'FD05', 'SP02', 'JZ02', 'DK12', 'RG02', 'FW15', 'CC08', 'XB06', 'UV20', 'MO09', 'YK02', 'SJ02', 'DC01', 'XN01', 'GJ04', 'PZ08']"
+Jiahao,38663832002,8,10,"['CC21', 'DK12', 'FD01', 'MO03', 'MO04', 'QT01', 'SP03', 'UV36', 'XB18']",['CC18'],"['CC21', 'DK12', 'FD01', 'MO03', 'MO04', 'QT01', 'SP03', 'UV36', 'XB18', 'CC18']"
+Jiahao,38631814095,8,32,"['BU01', 'CC38', 'DK01', 'MO09', 'FW07', 'FW15', 'GJ04', 'JC02', 'JC04', 'JZ01', 'QT17', 'RG01', 'SP01', 'UV01', 'WJ01', 'XB65', 'YK01', 'ZG01']","['DC09', 'DK12', 'FH02', 'JB01', 'MO04', 'PZ07', 'QT01', 'SJ17', 'SP03', 'UV36', 'XB18', 'XN06', 'YK05', 'ZG09']","['BU01', 'CC38', 'DK01', 'MO09', 'FW07', 'FW15', 'GJ04', 'JC02', 'JC04', 'JZ01', 'QT17', 'RG01', 'SP01', 'UV01', 'WJ01', 'XB65', 'YK01', 'ZG01', 'DC09', 'DK12', 'FH02', 'JB01', 'MO04', 'PZ07', 'QT01', 'SJ17', 'SP03', 'UV36', 'XB18', 'XN06', 'YK05', 'ZG09']"
+Jiahao,37994506504,8,bundle_index = 1 does not exist,[],[],[]
+Jiahao,37908516066,8,bundle_index = 1 does not exist,[],[],[]
+Jiahao,37870465778,8,bundle_index = 1 does not exist,[],[],[]
+Jiahao,37745552927,8,bundle_index = 1 does not exist,[],[],[]
+Jiahao,37443266749,8,bundle_index = 2 does not exist,[],[],[]
+Jiahao,37241107923,8,bundle_index = 2 does not exist,[],[],[]
+Jiahao,36982442137,8,bundle_index = 2 does not exist,[],[],[]
+Jiahao,36910165248,8,29,"['CC06', 'DK01', 'DZ02', 'QT14', 'RG02', 'MO04', 'UV03', 'WD01', 'XB07', 'ZG21']","['CC08', 'DC13', 'DK05', 'FD05', 'FH01', 'GJ04', 'JC08', 'JQ02', 'MO02', 'PZ08', 'QT04', 'RG01', 'SJ02', 'SP01', 'UV20', 'WD05', 'XB05', 'XN06', 'ZG01']","['CC06', 'DK01', 'DZ02', 'QT14', 'RG02', 'MO04', 'UV03', 'WD01', 'XB07', 'ZG21', 'CC08', 'DC13', 'DK05', 'FD05', 'FH01', 'GJ04', 'JC08', 'JQ02', 'MO02', 'PZ08', 'QT04', 'RG01', 'SJ02', 'SP01', 'UV20', 'WD05', 'XB05', 'XN06', 'ZG01']"
+Jiahao,36613205733,8,20,"['CC24', 'DK14', 'QT07', 'MO06', 'UV01', 'ZG03', 'QC02', 'JB01', 'SJ02', 'JZ02']","['CC08', 'DC02', 'DK01', 'DZ02', 'SJ01', 'QT14', 'RG02', 'MO04', 'UV03', 'ZG21']","['CC24', 'DK14', 'QT07', 'MO06', 'UV01', 'ZG03', 'QC02', 'JB01', 'SJ02', 'JZ02', 'CC08', 'DC02', 'DK01', 'DZ02', 'SJ01', 'QT14', 'RG02', 'MO04', 'UV03', 'ZG21']"
+Jiahao,36574928690,8,bundle_index = 1 does not exist,[],[],[]
+Jiahao,36513357018,8,18,"['MO08', 'DK01', 'BU01', 'SJ28', 'JZ03', 'SP01', 'ZG01', 'GJ01']","['CC23', 'DK14', 'XN01', 'QT07', 'MO06', 'ZG03', 'WD01', 'SJ02', 'ND01', 'JZ02']","['MO08', 'DK01', 'BU01', 'SJ28', 'JZ03', 'SP01', 'ZG01', 'GJ01', 'CC23', 'DK14', 'XN01', 'QT07', 'MO06', 'ZG03', 'WD01', 'SJ02', 'ND01', 'JZ02']"
+Jiahao,35674260254,8,bundle_index = 2 does not exist,[],[],[]
+Jiahao,35557065616,8,bundle_index = 1 does not exist,[],[],[]
+Jiahao,35540978058,8,bundle_index = 1 does not exist,[],[],[]
+Jiahao,27462844289,8,24,"['BU01', 'CC02', 'DK06', 'FW07', 'FW13', 'FW20', 'JC01', 'MO02', 'QC02', 'ZG01']","['CC08', 'DC02', 'DK01', 'DZ02', 'FD01', 'JC06', 'MO01', 'ND01', 'QT14', 'RG02', 'UV03', 'XN01', 'YK01', 'ZG07']","['BU01', 'CC02', 'DK06', 'FW07', 'FW13', 'FW20', 'JC01', 'MO02', 'QC02', 'ZG01', 'CC08', 'DC02', 'DK01', 'DZ02', 'FD01', 'JC06', 'MO01', 'ND01', 'QT14', 'RG02', 'UV03', 'XN01', 'YK01', 'ZG07']"
+Jiahao,26519380192,8,bundle_index = 2 does not exist,[],[],[]
+Jiahao,25673844634,8,bundle_index = 1 does not exist,[],[],[]
+Jiahao,24596036343,8,26,"['CC21', 'DC21', 'UV34', 'XN07', 'DC10', 'CD02', 'XN09', 'XB07', 'BD05', 'MS01', 'DC07', 'SJ18', 'MO12', 'BU01']","['FD01', 'JB01', 'JZ02', 'MO02', 'ND01', 'PZ01', 'QC02', 'QT07', 'RG01', 'SJ03', 'WD01', 'XN01']","['CC21', 'DC21', 'UV34', 'XN07', 'DC10', 'CD02', 'XN09', 'XB07', 'BD05', 'MS01', 'DC07', 'SJ18', 'MO12', 'BU01', 'FD01', 'JB01', 'JZ02', 'MO02', 'ND01', 'PZ01', 'QC02', 'QT07', 'RG01', 'SJ03', 'WD01', 'XN01']"
+Jiahao,24319152517,8,bundle_index = 2 does not exist,[],[],[]
+Jiahao,24291960195,8,bundle_index = 2 does not exist,[],[],[]
+Jiahao,23969324559,8,bundle_index = 2 does not exist,[],[],[]
+Jiahao,23924620234,8,bundle_index = 1 does not exist,[],[],[]
+Jiahao,23896264169,8,30,"['CC01', 'DK01', 'XB07', 'UV01', 'ZG01', 'SP01', 'BU01', 'MO06', 'SJ01']","['JZ01', 'FD05', 'BU04', 'MO16', 'FH03', 'SJ07', 'QC02', 'FW15', 'FW16', 'CC07', 'XB05', 'MO15', 'ZG18', 'UV12', 'SP02', 'JB01', 'DK09', 'DC02', 'RG03', 'BD03', 'PZ01']","['CC01', 'DK01', 'XB07', 'UV01', 'ZG01', 'SP01', 'BU01', 'MO06', 'SJ01', 'JZ01', 'FD05', 'BU04', 'MO16', 'FH03', 'SJ07', 'QC02', 'FW15', 'FW16', 'CC07', 'XB05', 'MO15', 'ZG18', 'UV12', 'SP02', 'JB01', 'DK09', 'DC02', 'RG03', 'BD03', 'PZ01']"
+Jiahao,20728727154,8,bundle_index = 2 does not exist,[],[],[]
+Jiahao,20373091017,8,bundle_index = 1 does not exist,[],[],[]
+Jiahao,20186366493,8,34,"['CC06', 'DK01', 'FW07', 'MO02', 'QT04', 'CC05', 'XB35', 'UV12', 'BU01', 'XN04', 'ZG01', 'FD05', 'QT01', 'SJ28', 'JC05']","['JC04', 'CC04', 'DK14', 'DC01', 'XN01', 'QT07', 'MO06', 'UV01', 'YK01', 'ND01', 'WD01', 'QC02', 'JB01', 'RG01', 'FW15', 'BJ01', 'PZ01', 'SJ03', 'ZG03']","['CC06', 'DK01', 'FW07', 'MO02', 'QT04', 'CC05', 'XB35', 'UV12', 'BU01', 'XN04', 'ZG01', 'FD05', 'QT01', 'SJ28', 'JC05', 'JC04', 'CC04', 'DK14', 'DC01', 'XN01', 'QT07', 'MO06', 'UV01', 'YK01', 'ND01', 'WD01', 'QC02', 'JB01', 'RG01', 'FW15', 'BJ01', 'PZ01', 'SJ03', 'ZG03']"
+Jiahao,20167630571,8,bundle_index = 1 does not exist,[],[],[]
+Jiahao,19999809846,8,21,"['CC01', 'DK14', 'JB01', 'JZ02', 'MO02', 'QC02', 'QT07', 'RG01', 'SJ28', 'XB21', 'XN01']","['XN04', 'FD05', 'SP02', 'SJ07', 'JC05', 'DC21', 'MO09', 'CC08', 'DC01', 'SJ01']","['CC01', 'DK14', 'JB01', 'JZ02', 'MO02', 'QC02', 'QT07', 'RG01', 'SJ28', 'XB21', 'XN01', 'XN04', 'FD05', 'SP02', 'SJ07', 'JC05', 'DC21', 'MO09', 'CC08', 'DC01', 'SJ01']"
+Jiahao,18999829018,8,bundle_index = 1 does not exist,[],[],[]
+Jiahao,18820622609,8,15,"['BU01', 'DC01', 'DK01', 'FD01', 'GJ01', 'JB01', 'JZ03', 'QC02', 'SJ28', 'SP01', 'MO08', 'XB07']","['WD01', 'XB21', 'XN01']","['BU01', 'DC01', 'DK01', 'FD01', 'GJ01', 'JB01', 'JZ03', 'QC02', 'SJ28', 'SP01', 'MO08', 'XB07', 'WD01', 'XB21', 'XN01']"
+Jiahao,18352298789,8,bundle_index = 2 does not exist,[],[],[]
+Jiahao,18053093587,8,bundle_index = 2 does not exist,[],[],[]
+Jiahao,16831203027,8,36,"['CC02', 'DC21', 'ZG01', 'UV01', 'RG01', 'XN04', 'FD05', 'MO16', 'FH03', 'SJ23', 'QC02', 'FW15', 'FW16', 'CC05', 'XB35', 'MO15', 'ZG18', 'UV12', 'SP02', 'JB01', 'DK09']","['CC08,CC40,CC46,CC47', 'DC01', 'DK01', 'FP01', 'FW06', 'FW07', 'MO09', 'ND01', 'PZ02', 'QT01', 'SJ03', 'UV02', 'WD01', 'XB06', 'YK01']","['CC02', 'DC21', 'ZG01', 'UV01', 'RG01', 'XN04', 'FD05', 'MO16', 'FH03', 'SJ23', 'QC02', 'FW15', 'FW16', 'CC05', 'XB35', 'MO15', 'ZG18', 'UV12', 'SP02', 'JB01', 'DK09', 'CC08,CC40,CC46,CC47', 'DC01', 'DK01', 'FP01', 'FW06', 'FW07', 'MO09', 'ND01', 'PZ02', 'QT01', 'SJ03', 'UV02', 'WD01', 'XB06', 'YK01']"

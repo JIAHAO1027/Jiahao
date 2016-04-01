@@ -1,0 +1,28 @@
+---
+title: "Urap join table"
+author: "Jiahao Huang"
+date: ""
+output: 
+  html_document:
+    fig_height: 3
+    fig_width: 5
+---
+<!-- Don't edit in between this line and the one below -->
+```{r include=FALSE}
+# Don't delete this chunk if you are using the DataComputing package
+library(DataComputing)
+```
+*Source file* 
+```{r, results='asis', echo=FALSE}
+includeSourceDocuments()
+```
+<!-- Don't edit the material above this line -->
+
+
+```{r}
+lst <- read.csv("/Users/Jiahao/Dropbox/urap_programming/Jiahao/gen_delta_n_premium_rel/input/lst_700D_Yi_Feb142016_giftindex_corrected.csv")
+dic <- read.csv("/Users/Jiahao/Dropbox/urap_programming/Jiahao/gen_delta_n_premium_rel/input/dict_700d_750d_youyi.csv")
+
+result <- left_join(lst, dic, by = "dict_yi_index")
+write.csv(result, file = "/Users/Jiahao/Desktop/table.csv")
+```
